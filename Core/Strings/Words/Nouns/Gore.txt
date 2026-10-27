@@ -1,7 +1,5 @@
-﻿sangue
-nesga
-culhões
-vísceras
-entranhas
-entranhas
+﻿entranhas
 intestinos
+nesga
+sangue
+vísceras

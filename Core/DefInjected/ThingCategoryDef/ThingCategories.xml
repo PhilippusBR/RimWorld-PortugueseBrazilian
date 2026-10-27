@@ -4,14 +4,23 @@
   <!-- EN: animal products -->
   <AnimalProductRaw.label>produtos animais</AnimalProductRaw.label>
   
+  <!-- EN: animals -->
+  <Animals.label>animais</Animals.label>
+  
   <!-- EN: apparel -->
   <Apparel.label>vestuário</Apparel.label>
   
   <!-- EN: armor -->
   <ApparelArmor.label>armadura</ApparelArmor.label>
   
+  <!-- EN: misc -->
+  <ApparelMisc.label>diversos</ApparelMisc.label>
+  
   <!-- EN: noble apparel -->
   <ApparelNoble.label>vestuário nobre</ApparelNoble.label>
+  
+  <!-- EN: utility -->
+  <ApparelUtility.label>utilitário</ApparelUtility.label>
   
   <!-- EN: headgear -->
   <ArmorHeadgear.label>chapéu</ArmorHeadgear.label>
@@ -23,10 +32,13 @@
   <BodyParts.label>partes do corpo</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>archotech</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>arquotecnológico</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
   <BodyPartsBionic.label>biônico</BodyPartsBionic.label>
+  
+  <!-- EN: mechtech -->
+  <BodyPartsMechtech.label>meca-tecnologia</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
@@ -38,7 +50,13 @@
   <BodyPartsSimple.label>partes simples</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>ultratecnológico</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultra-tecnológico</BodyPartsUltra.label>
+  
+  <!-- EN: bookEffects -->
+  <BookEffects.label>Efeitos do livro</BookEffects.label>
+  
+  <!-- EN: books -->
+  <Books.label>livros</Books.label>
   
   <!-- EN: buildings -->
   <Buildings.label>mobílias</Buildings.label>
@@ -115,8 +133,14 @@
   <!-- EN: headgear -->
   <HeadgearNoble.label>chapéus</HeadgearNoble.label>
   
+  <!-- EN: inert relics -->
+  <InertRelics.label>relíquias inertes</InertRelics.label>
+  
   <!-- EN: items -->
   <Items.label>itens</Items.label>
+  
+  <!-- EN: misc -->
+  <ItemsMisc.label>diversos</ItemsMisc.label>
   
   <!-- EN: leathers -->
   <Leathers.label>couros</Leathers.label>
@@ -139,11 +163,20 @@
   <!-- EN: psytrainers -->
   <NeurotrainersPsycast.label>treinadores psíquicos</NeurotrainersPsycast.label>
   
+  <!-- EN: skilltrainers -->
+  <NeurotrainersSkill.label>treinadores de habilidade</NeurotrainersSkill.label>
+  
   <!-- EN: vegetarian -->
   <PlantFoodRaw.label>vegetariano</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
   <PlantMatter.label>matéria vegetal</PlantMatter.label>
+  
+  <!-- EN: plants -->
+  <Plants.label>plantas</Plants.label>
+  
+  <!-- EN: research -->
+  <ResearchGain.label>pesquisa</ResearchGain.label>
   
   <!-- EN: raw resources -->
   <ResourcesRaw.label>recursos brutos</ResourcesRaw.label>
@@ -151,11 +184,17 @@
   <!-- EN: root -->
   <Root.label>raiz</Root.label>
   
+  <!-- EN: skill gain -->
+  <SkillGain.label>ganho de habilidade</SkillGain.label>
+  
   <!-- EN: stone blocks -->
   <StoneBlocks.label>blocos de pedra</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
   <StoneChunks.label>pedaços de pedra</StoneChunks.label>
+  
+  <!-- EN: stumps -->
+  <Stumps.label>tocos</Stumps.label>
   
   <!-- EN: techprints -->
   <Techprints.label>projetos técnicos</Techprints.label>
@@ -177,5 +216,11 @@
   
   <!-- EN: ranged weapons -->
   <WeaponsRanged.label>armas de longo alcance</WeaponsRanged.label>
+  
+  <!-- EN: unique weapons -->
+  <WeaponsUnique.label>armas únicas</WeaponsUnique.label>
+  
+  <!-- EN: wools -->
+  <Wools.label>lãs</Wools.label>
   
 </LanguageData>

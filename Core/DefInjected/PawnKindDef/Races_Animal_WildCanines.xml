@@ -28,13 +28,6 @@
   <!-- EN: red fox puppies -->
   <Fox_Red.lifeStages.red_fox_puppy.labelPlural>filhotes de raposa vermelha</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
-  <!-- EN: warg -->
-  <Warg.label>warg</Warg.label>
-  <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>warg filhote</Warg.lifeStages.warg_puppy.label>
-  <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>wargs filhotes</Warg.lifeStages.warg_puppy.labelPlural>
-  
   <!-- EN: arctic wolf -->
   <Wolf_Arctic.label>lobo ártico</Wolf_Arctic.label>
   <!-- EN: arctic wolves -->
@@ -45,12 +38,12 @@
   <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>filhotes de lobos árticos</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>lobo de madeira</Wolf_Timber.label>
+  <Wolf_Timber.label>lobo cinzento</Wolf_Timber.label>
   <!-- EN: timber wolves -->
-  <Wolf_Timber.labelPlural>lobos de madeira</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelPlural>lobos cinzentos</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>filhote de lobo de madeira</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>filhote de lobo cinzento</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>filhotes de lobos de madeira</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>filhotes de lobos cinzentos</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   
 </LanguageData>

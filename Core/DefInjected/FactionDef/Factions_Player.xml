@@ -2,9 +2,13 @@
 <LanguageData>
   
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>Recém Chegados</PlayerColony.label>
+  <PlayerColony.label>Recém-Chegados</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
   <PlayerColony.description>Uma colônia de recém-chegados ao mundo.</PlayerColony.description>
+  <!-- EN: leader -->
+  <PlayerColony.leaderTitle>líder</PlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerColony.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>colono</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -14,6 +18,10 @@
   <PlayerTribe.label>Nova Tribo</PlayerTribe.label>
   <!-- EN: A small tribe. -->
   <PlayerTribe.description>Uma pequena tribo.</PlayerTribe.description>
+  <!-- EN: leader -->
+  <PlayerTribe.leaderTitle>líder</PlayerTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PlayerTribe.messageDefendersAttacking>{0} de {1} estão atacando seu {2}.</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>nativo</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

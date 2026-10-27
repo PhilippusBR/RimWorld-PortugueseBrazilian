@@ -11,6 +11,11 @@
   <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
   <AnimalGatherYield.description>A porcentagem de rendimento que alguém recebe quando eles tosquiam, tiram leite ou de outra forma coletam recursos de um animal vivo. Percentagens mais altas reduzem a chance de desperdiçar o produto.</AnimalGatherYield.description>
   
+  <!-- EN: cleaning speed multiplier -->
+  <CleaningSpeed.label>multiplicador de velocidade de limpeza</CleaningSpeed.label>
+  <!-- EN: A multiplier on how fast this cleans up filth from the ground. -->
+  <CleaningSpeed.description>Um multiplicador de quão rápido limpa sujeira do chão.</CleaningSpeed.description>
+  
   <!-- EN: construction speed -->
   <ConstructionSpeed.label>velocidade de construção</ConstructionSpeed.label>
   <!-- EN: The speed at which this person constructs and repairs buildings. -->
@@ -26,10 +31,25 @@
   <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
   <DeepDrillingSpeed.description>A velocidade na qual essa pessoa usa uma broca profunda para extrair recursos subterrâneos.</DeepDrillingSpeed.description>
   
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>rendimento de colheita de drogas</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>O rendimento que essa pessoa obtém ao colher plantas de entorpecentes.\n\nO baixo rendimento dá a chance de essa pessoa acidentalmente desperdiçar a colheita. Altos rendimentos aumentam o rendimento de cada planta.</DrugHarvestYield.description>
+  
   <!-- EN: repair success chance -->
   <FixBrokenDownBuildingSuccessChance.label>chance de sucesso de reparo</FixBrokenDownBuildingSuccessChance.label>
   <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
-  <FixBrokenDownBuildingSuccessChance.description>A chance de que essa pessoa irá reparar com sucesso um edifício quebrado utilizando um componente. Falhar significa desperdiçar tempo e recursos. Note que isto só se aplica à reparos de avarias, que é diferente da reparo de danos.</FixBrokenDownBuildingSuccessChance.description>
+  <FixBrokenDownBuildingSuccessChance.description>A chance de que essa pessoa reparará com sucesso um edifício quebrado utilizando um componente. Falhar significa desperdiçar tempo e recursos. Note que isto só se aplica à reparos de avarias, que é diferente da reparo de danos.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hacking speed -->
+  <HackingSpeed.label>velocidade de hacking</HackingSpeed.label>
+  <!-- EN: How fast this person can hack into computer terminals. -->
+  <HackingSpeed.description>Quão rápido essa pessoa pode invadir terminais de computador.</HackingSpeed.description>
+  
+  <!-- EN: hacking stealth -->
+  <HackingStealth.label>hacking furtivo</HackingStealth.label>
+  <!-- EN: How much hacking progress can be made on average before this person is temporarily locked out of a computer system. Only certain systems are capable of detecting hacking. -->
+  <HackingStealth.description>Quanto progresso de hacking pode ser feito, em média, antes que essa pessoa fique temporariamente bloqueada de um sistema de computador. Apenas certos sistemas são capazes de detectar hacking.</HackingStealth.description>
   
   <!-- EN: hunting stealth -->
   <HuntingStealth.label>caça furtiva</HuntingStealth.label>
@@ -49,12 +69,17 @@
   <!-- EN: plant harvest yield -->
   <PlantHarvestYield.label>rendimento de colheita de plantas</PlantHarvestYield.label>
   <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
-  <PlantHarvestYield.description>O rendimento que alguém obtém quando colhe plantas. Baixos rendimentos dão uma chance de que esta pessoa irá desperdiçar acidentalmente a colheita.</PlantHarvestYield.description>
+  <PlantHarvestYield.description>O rendimento que alguém obtém quando colhe plantas. Baixos rendimentos dão uma chance de que esta pessoa desperdiçará acidentalmente a colheita.</PlantHarvestYield.description>
   
   <!-- EN: plant work speed -->
   <PlantWorkSpeed.label>velocidade de trabalho em plantas</PlantWorkSpeed.label>
   <!-- EN: The speed at which this person sows and harvests plants. -->
   <PlantWorkSpeed.description>Velocidade com que esta pessoa planta e colhe plantas.</PlantWorkSpeed.description>
+  
+  <!-- EN: reading speed -->
+  <ReadingSpeed.label>velocidade de leitura</ReadingSpeed.label>
+  <!-- EN: A multiplier on how fast this person can read. -->
+  <ReadingSpeed.description>Um multiplicador da velocidade com que essa pessoa consegue ler.</ReadingSpeed.description>
   
   <!-- EN: research speed -->
   <ResearchSpeed.label>velocidade de pesquisa</ResearchSpeed.label>
@@ -70,5 +95,7 @@
   <WorkSpeedGlobal.label>velocidade de trabalho global</WorkSpeedGlobal.label>
   <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
   <WorkSpeedGlobal.description>Um multiplicador na velocidade de alguém em fazer qualquer trabalho.</WorkSpeedGlobal.description>
+  <!-- EN: Offset from mechanitor -->
+  <WorkSpeedGlobal.parts.2.label>Deslocamento do mecanizador</WorkSpeedGlobal.parts.2.label>
   
 </LanguageData>

@@ -77,9 +77,9 @@
   <!-- EN: awfl -->
   <QualityCategoryShort_Awful>horr</QualityCategoryShort_Awful>
   <!-- EN: poor -->
-  <QualityCategoryShort_Poor>pobr</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Poor>pobre</QualityCategoryShort_Poor>
   <!-- EN: norm -->
-  <QualityCategoryShort_Normal>norma</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Normal>normal</QualityCategoryShort_Normal>
   <!-- EN: good -->
   <QualityCategoryShort_Good>bom</QualityCategoryShort_Good>
   <!-- EN: exc -->
@@ -111,15 +111,15 @@
 
   <!-- Hilliness -->
   <!-- EN: flat -->
-  <Hilliness_Flat>plano</Hilliness_Flat>
+  <Hilliness_Flat>Plano</Hilliness_Flat>
   <!-- EN: small hills -->
-  <Hilliness_SmallHills>colinas pequenas</Hilliness_SmallHills>
+  <Hilliness_SmallHills>Colinas Pequenas</Hilliness_SmallHills>
   <!-- EN: large hills -->
-  <Hilliness_LargeHills>colinas grandes</Hilliness_LargeHills>
+  <Hilliness_LargeHills>Colinas Grandes</Hilliness_LargeHills>
   <!-- EN: mountainous -->
-  <Hilliness_Mountainous>montanhoso</Hilliness_Mountainous>
+  <Hilliness_Mountainous>Montanhoso</Hilliness_Mountainous>
   <!-- EN: impassable -->
-  <Hilliness_Impassable>intransitável</Hilliness_Impassable>
+  <Hilliness_Impassable>Intransitável</Hilliness_Impassable>
   
   <!-- Steam workshop interaction -->
   <!-- EN: Creating -->
@@ -140,24 +140,24 @@
   <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Fazendo mudanças</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
 
   <!-- Mod sources -->
-  <!-- EN: official content -->
-  <ContentSource_OfficialModsFolder>conteúdo oficial</ContentSource_OfficialModsFolder>
-  <!-- EN: local folder -->
-  <ContentSource_ModsFolder>pasta local</ContentSource_ModsFolder>
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>Conteúdo Oficial</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>Pasta Local</ContentSource_ModsFolder>
   <!-- EN: Steam Workshop -->
-  <ContentSource_SteamWorkshop>Oficina Steam</ContentSource_SteamWorkshop>
+  <ContentSource_SteamWorkshop>Oficina</ContentSource_SteamWorkshop>
   
   <!-- Medical care category -->
-  <!-- EN: No medical care -->
-  <MedicalCareCategory_NoCare>Sem atendimento médico</MedicalCareCategory_NoCare>
-  <!-- EN: Doctor care, but no medicine -->
-  <MedicalCareCategory_NoMeds>Atendimento médico, mas sem medicina</MedicalCareCategory_NoMeds>
-  <!-- EN: Herbal medicine or worse -->
-  <MedicalCareCategory_HerbalOrWorse>Medicina natural ou pior</MedicalCareCategory_HerbalOrWorse>
-  <!-- EN: Industrial-tech medicine or worse -->
-  <MedicalCareCategory_NormalOrWorse>Medicina normal ou pior</MedicalCareCategory_NormalOrWorse>
-  <!-- EN: Best quality medicine -->
-  <MedicalCareCategory_Best>Melhor medicina e assistência médica</MedicalCareCategory_Best>
+  <!-- EN: no medical care -->
+  <MedicalCareCategory_NoCare>Sem Atendimento Médico</MedicalCareCategory_NoCare>
+  <!-- EN: doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>Atendimento sem Medicina</MedicalCareCategory_NoMeds>
+  <!-- EN: herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>Medicina Natural ou Pior</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>Medicina Industrial ou Pior</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: best quality medicine -->
+  <MedicalCareCategory_Best>Medicina de Melhor !ualidade</MedicalCareCategory_Best>
 
   <!-- Hostility response mode -->
   <!-- EN: Ignore -->
@@ -177,47 +177,91 @@
 
   <!-- TechLevel -->
   <!-- EN: animal -->
-  <TechLevel_Animal>animal</TechLevel_Animal>
+  <TechLevel_Animal>Animal</TechLevel_Animal>
   <!-- EN: neolithic -->
-  <TechLevel_Neolithic>neolítico</TechLevel_Neolithic>
+  <TechLevel_Neolithic>Neolítico</TechLevel_Neolithic>
   <!-- EN: medieval -->
-  <TechLevel_Medieval>medieval</TechLevel_Medieval>
+  <TechLevel_Medieval>Medieval</TechLevel_Medieval>
   <!-- EN: industrial -->
-  <TechLevel_Industrial>industrial</TechLevel_Industrial>
+  <TechLevel_Industrial>Industrial</TechLevel_Industrial>
   <!-- EN: spacer -->
-  <TechLevel_Spacer>espacial</TechLevel_Spacer>
+  <TechLevel_Spacer>Espacial</TechLevel_Spacer>
   <!-- EN: ultra -->
-  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Ultra>Ultra</TechLevel_Ultra>
   <!-- EN: archotech -->
-  <TechLevel_Archotech>archotech</TechLevel_Archotech>
+  <TechLevel_Archotech>Arquotecnológico</TechLevel_Archotech>
 
   <!-- Player pawns arrive method -->
   <!-- EN: Standing -->
-  <PlayerPawnsArriveMethod_Standing>De pé</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_Standing>A Pé</PlayerPawnsArriveMethod_Standing>
   <!-- EN: Drop pods -->
-  <PlayerPawnsArriveMethod_DropPods>Cápsulas de transporte</PlayerPawnsArriveMethod_DropPods>
+  <PlayerPawnsArriveMethod_DropPods>Cápsulas de Transporte</PlayerPawnsArriveMethod_DropPods>
 
   <!-- Pawn generation context -->
   <!-- EN: all characters -->
-  <PawnGenerationContext_All>todos os personagens</PawnGenerationContext_All>
+  <PawnGenerationContext_All>Todos os Personagens</PawnGenerationContext_All>
   <!-- EN: player starting characters -->
-  <PawnGenerationContext_PlayerStarter>personagens jogáveis iniciais</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_PlayerStarter>Personagens Jogáveis Ini.</PawnGenerationContext_PlayerStarter>
   <!-- EN: non-player characters -->
-  <PawnGenerationContext_NonPlayer>personagens não jogáveis</PawnGenerationContext_NonPlayer>
+  <PawnGenerationContext_NonPlayer>Personagens Não Jogáveis</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>Intensidade de Vibração da Tela</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
-  <ShowAnimalNames>Mostrar nomes de animais</ShowAnimalNames>
+  <ShowAnimalNames>Nomes de Animais</ShowAnimalNames>
   <!-- EN: Tame (named only) -->
-  <AnimalNameDisplayMode_TameNamed>Domados (apenas nomeados)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameNamed>Domados (Apenas Nomeados)</AnimalNameDisplayMode_TameNamed>
   <!-- EN: Tame (all) -->
-  <AnimalNameDisplayMode_TameAll>Domados (todos)</AnimalNameDisplayMode_TameAll>
+  <AnimalNameDisplayMode_TameAll>Domados (Todos)</AnimalNameDisplayMode_TameAll>
+
+  <!-- Highlight display mode -->
+  <!-- EN: Character highlighting -->
+  <DotHighlightDisplayMode>Destaque de Personagens</DotHighlightDisplayMode>
+  <!-- EN: Highlight hostiles -->
+  <DotHighlightDisplayMode_HighlightHostiles>Hostis</DotHighlightDisplayMode_HighlightHostiles>
+  <!-- EN: Highlight all -->
+  <DotHighlightDisplayMode_HighlightAll>Todos</DotHighlightDisplayMode_HighlightAll> 
   
+  <!-- Highlight style -->
+  <!-- EN: Highlight mode -->
+  <HighlightStyleMode>Modo de Destaque</HighlightStyleMode>
+  <!-- EN: Dots -->
+  <HighlightStyleMode_Dots>Pontos</HighlightStyleMode_Dots>
+  <!-- EN: Silhouettes -->
+  <HighlightStyleMode_Silhouettes>Silhuetas</HighlightStyleMode_Silhouettes> 
+
+  <!-- Mood gradient display strength-->
+  <!-- EN: Visible mood -->
+  <VisibleMood>Humor Visível</VisibleMood>
+  <!-- EN: When on, displays a visual indicator on a character's portrait when they are at risk of a mental break. -->
+  <VisibleMoodDesc>Quando ativado, exibe um indicador visual sobre o retrato de um personagem que está em risco de colapso mental.</VisibleMoodDesc>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>Nomes de Mecanoides</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>Enquanto Alistados</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>Sempre</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>Armas Abaixo dos Retratos</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>Exibe as armas abaixo do retrato dos colonos na barra do centro superior da tela</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>Sempre</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>Enquanto Alistado</ShowWeapons_WhileDrafted>
+
   <!-- Temperature -->
   <!-- EN: Celsius -->
-  <Celsius>Celsius</Celsius>
+  <Celsius>Graus Celsius</Celsius>
   <!-- EN: Fahrenheit -->
-  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <Fahrenheit>Graus Fahrenheit</Fahrenheit>
   <!-- EN: Kelvin -->
   <Kelvin>Kelvin</Kelvin>
   
@@ -243,11 +287,11 @@
   <!-- EN: Never eats -->
   <DietCategory_NeverEats>Nunca come</DietCategory_NeverEats>
   <!-- EN: Herbivorous -->
-  <DietCategory_Herbivorous>Herbívoros</DietCategory_Herbivorous>
+  <DietCategory_Herbivorous>Herbívoro</DietCategory_Herbivorous>
   <!-- EN: Dendrovorous -->
-  <DietCategory_Dendrovorous>Herbívoro</DietCategory_Dendrovorous>
+  <DietCategory_Dendrovorous>Dendrívoro</DietCategory_Dendrovorous>
   <!-- EN: Ovivorous -->
-  <DietCategory_Ovivorous>Ovívoros</DietCategory_Ovivorous>
+  <DietCategory_Ovivorous>Ovívoro</DietCategory_Ovivorous>
   <!-- EN: Omnivorous -->
   <DietCategory_Omnivorous>Onívoro</DietCategory_Omnivorous>
   <!-- EN: Carnivorous -->
@@ -279,25 +323,25 @@
   <!-- EN: none -->
   <PsychicDroneLevel_None>Nenhum</PsychicDroneLevel_None>
   <!-- EN: medium -->
-  <PsychicDroneLevel_GoodMedium>médio</PsychicDroneLevel_GoodMedium>
+  <PsychicDroneLevel_GoodMedium>Médio</PsychicDroneLevel_GoodMedium>
   <!-- EN: low -->
-  <PsychicDroneLevel_BadLow>baixo</PsychicDroneLevel_BadLow>
+  <PsychicDroneLevel_BadLow>Baixo</PsychicDroneLevel_BadLow>
   <!-- EN: medium -->
-  <PsychicDroneLevel_BadMedium>médio</PsychicDroneLevel_BadMedium>
+  <PsychicDroneLevel_BadMedium>Médio</PsychicDroneLevel_BadMedium>
   <!-- EN: high -->
-  <PsychicDroneLevel_BadHigh>alto</PsychicDroneLevel_BadHigh>
+  <PsychicDroneLevel_BadHigh>Alto</PsychicDroneLevel_BadHigh>
   <!-- EN: extreme -->
-  <PsychicDroneLevel_BadExtreme>extremo</PsychicDroneLevel_BadExtreme>
+  <PsychicDroneLevel_BadExtreme>Extremo</PsychicDroneLevel_BadExtreme>
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
   <AutomaticPauseMode_Never>Nunca</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
-  <AutomaticPauseMode_MajorThreat>Ameaças graves</AutomaticPauseMode_MajorThreat>
+  <AutomaticPauseMode_MajorThreat>Ameaças Graves</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>Qualquer ameaça</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Qualquer Ameaça</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
-  <AutomaticPauseMode_AnyLetter>Qualquer mensagem</AutomaticPauseMode_AnyLetter>
+  <AutomaticPauseMode_AnyLetter>Qualquer Mensagem</AutomaticPauseMode_AnyLetter>
 
   <!-- Pain category -->
   <!-- EN: itchy -->
@@ -312,4 +356,21 @@
   <ExtraFactionType_HomeFaction>facção de origem</ExtraFactionType_HomeFaction>
   <!-- EN: remote host faction -->
   <ExtraFactionType_HostFaction>facção de host remoto</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>grupo</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>categoria de drogas</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>nenhuma</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>medicinal</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>social</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>pesada</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>qualquer</DrugCategory_Any>
+  
 </LanguageData>

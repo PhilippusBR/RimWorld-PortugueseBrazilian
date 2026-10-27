@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>administrou drogas</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>administrou drogas pesadas</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>administrou drogas recriacionais</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>comeu carne humana</AteHumanMeat.label>
+  
+  <!-- EN: build building -->
+  <BuildSpecificDef.label>construiu estrutura</BuildSpecificDef.label>
+  
+  <!-- EN: joiner refused -->
+  <CharityRefused_ThreatReward_Joiner.label>andarilho recusado</CharityRefused_ThreatReward_Joiner.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>cortou árvore</CutTree.label>
+  
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>destruiu parede natural</DestroyedMineable.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>usou drogas</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>usou drogas pesadas</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>usou drogas recriacionais</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>instalou prótese</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>minerou</Mined.label>
+  
+  <!-- EN: tree died -->
+  <MinifiedTreeDied.label>árvore morreu</MinifiedTreeDied.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>pesquisando</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>semeou planta alimentícia</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>semeou planta</SowedPlant.label>
+  
+</LanguageData>

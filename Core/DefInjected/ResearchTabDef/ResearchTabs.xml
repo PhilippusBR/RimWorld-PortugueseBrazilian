@@ -3,5 +3,9 @@
   
   <!-- EN: Main -->
   <Main.label>Principal</Main.label>
+  <!-- EN: Unlock new technologies by researching at a research bench. You can only have one active project at a time. -->
+  <Main.generalDescription>Desbloqueie novas tecnologias pesquisando em uma bancada de pesquisa. Você só pode ter um projeto ativo por vez.</Main.generalDescription>
+  <!-- EN: Main research projects -->
+  <Main.generalTitle>Projetos de Pesquisa Principais</Main.generalTitle>
   
 </LanguageData>

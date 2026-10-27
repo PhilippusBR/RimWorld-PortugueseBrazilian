@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drifter -->
+  <Drifter_Yttakin.label>vagante</Drifter_Yttakin.label>
+  
+  <!-- EN: elite mercenary -->
+  <Mercenary_Elite_Yttakin.label>mercenário(a) de elite</Mercenary_Elite_Yttakin.label>
+  <!-- EN: elite mercenaries -->
+  <Mercenary_Elite_Yttakin.labelPlural>mercenários de elite</Mercenary_Elite_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary gunner -->
+  <Mercenary_Gunner_Yttakin.label>mercenário(a) atirador(a)</Mercenary_Gunner_Yttakin.label>
+  
+  <!-- EN: heavy mercenary -->
+  <Mercenary_Heavy_Yttakin.label>mercenário(a) pesado(a)</Mercenary_Heavy_Yttakin.label>
+  <!-- EN: heavy mercenaries -->
+  <Mercenary_Heavy_Yttakin.labelPlural>mercenários pesados</Mercenary_Heavy_Yttakin.labelPlural>
+  
+  <!-- EN: mercenary slasher -->
+  <Mercenary_Slasher_Yttakin.label>mercenário(a) esfaqueador(a)</Mercenary_Slasher_Yttakin.label>
+  
+  <!-- EN: mercenary sniper -->
+  <Mercenary_Sniper_Yttakin.label>mercenário(a) franco-atirador</Mercenary_Sniper_Yttakin.label>
+  
+  <!-- EN: pirate gunner -->
+  <Pirate_Yttakin.label>pirata atirador(a)</Pirate_Yttakin.label>
+  
+  <!-- EN: scavenger gunner -->
+  <Scavenger_Yttakin.label>saqueador(a) atirador(a)</Scavenger_Yttakin.label>
+  
+  <!-- EN: scavenger thrasher -->
+  <Thrasher_Yttakin.label>saqueador(a) de lixo</Thrasher_Yttakin.label>
+  
+</LanguageData>

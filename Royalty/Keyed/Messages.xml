@@ -2,12 +2,46 @@
 <LanguageData>
 
   <!-- Shuttle landing zones -->
-  <!-- EN: Shuttle could not land on pad: {0}. -->
+  <!-- EN: Shuttle could not land on pad: {0} -->
   <ShuttleBlocked>O transporte não pôde pousar na plataforma: {0}.</ShuttleBlocked>
-  <!-- EN: blocked by {0_label} -->
-  <BlockedBy>bloqueado por {0_label}</BlockedBy>
+  <!-- EN: The shuttle arrived, but since there were no colonists inside, the contents were lost. -->
+  <MessageShuttleArrivedContentsLost>O transporte chegou, mas como não havia colonos dentro, o conteúdo foi perdido.</MessageShuttleArrivedContentsLost>
 
-  <!-- EN: Warning: Anima tree has been marked for cutting. -->
-  <MessageWarningCutAnimaTree>Aviso: A árvore anima foi marcada para corte.</MessageWarningCutAnimaTree>
+  <!-- EN: Cannot land in undiscovered area. -->
+  <ShuttleCannotLand_Fogged>Impossível aterrissar em uma área ainda não descoberta.</ShuttleCannotLand_Fogged>
+  <!-- EN: Area must be walkable. -->
+  <ShuttleCannotLand_Unwalkable>A área deve ser em terra firme.</ShuttleCannotLand_Unwalkable>
+  <!-- EN: Terrain does not support {0}. -->
+  <ShuttleCannotLand_Unaffordable>O terreno não suporta {0}.</ShuttleCannotLand_Unaffordable>
+
+  <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
+  <MessageBestowerWaiting>Selecione {BESTOWER_definite} e clique em 'Começar cerimônia de outorga' para começar a cerimônia.</MessageBestowerWaiting>
+  <!-- EN: Cannot reach bestower! -->
+  <MessageBestowerUnreachable>Não é possível alcançar o Mestre de cerimônias!</MessageBestowerUnreachable>
+  <!-- EN: {0} is busy. -->
+  <MessageBestowingTargetIsBusy>{0} está ocupado(a).</MessageBestowingTargetIsBusy>
+  <!-- EN: The bestower is annoyed with the interference and has decided to leave. -->
+  <MessageBestowingSpotUnreachable>O Mestre de cerimônias está incomodado com a interferência e decidiu partir.</MessageBestowingSpotUnreachable>
+  <!-- EN: The bestower is leaving due to life-threatening danger. -->
+  <MessageBestowingDanger>O Mestre de cerimônias está partindo devido a um perigo ameaçador à sua vida.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>O Mestre de cerimônias está partindo devido a temperatura potencialmente fatal.</MessageBestowingDangerTemperature>
+  <!-- EN: The bestower is leaving due to dangerous gases in the area. -->
+  <MessageBestowingDangerGas>O Mestre de cerimônias está partindo devido a gases perigosos na área.</MessageBestowingDangerGas>
+  <!-- EN: The bestowing ceremony has been interrupted. -->
+  <MessageBestowingInterrupted>A cerimônia de outorga foi interrompida.</MessageBestowingInterrupted>
+
+  <!-- EN: {PAWN_definite}'s bestowing ceremony has begun. -->
+  <MessageBestowingCeremonyStarted>A cerimônia de outorga de {PAWN_definite} começou.</MessageBestowingCeremonyStarted>
+  <!-- EN: You defeated the {FACTION_pawnsPlural}! Get back on the shuttle to launch it. -->
+  <MessageMissionGetBackToShuttle>Você derrotou os {FACTION_pawnsPlural}! Volte para o transporte para para lançá-lo.</MessageMissionGetBackToShuttle>
+
+  <!-- EN: {FACTION_name} has dropped resources nearby. -->
+  <MessagePermitTransportDrop>{FACTION_name} deixou recursos nas proximidades.</MessagePermitTransportDrop>
+  <!-- EN: {FACTION_name} has sent resources to {PAWN_nameDef}'s caravan. -->
+  <MessagePermitTransportDropCaravan>{FACTION_name} enviou recursos para a caravana de {PAWN_nameDef}</MessagePermitTransportDropCaravan>
+
+  <!-- EN: No orbiting mechanoids found. -->
+  <MessageNoFactionForVerbMechCluster>Nenhum mecanoide em órbita encontrado.</MessageNoFactionForVerbMechCluster>
 
 </LanguageData>

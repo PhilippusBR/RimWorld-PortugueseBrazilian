@@ -4,7 +4,7 @@
   <!-- EN: beckon -->
   <Beckon.label>acenar</Beckon.label>
   <!-- EN: Psychically command the target to approach the caster. -->
-  <Beckon.description>Comande pisiquicamente o alvo a se aproximar do invocador.</Beckon.description>
+  <Beckon.description>Comande psíquicamente o alvo a se aproximar do invocador.</Beckon.description>
   
   <!-- EN: berserk -->
   <Berserk.label>berserker</Berserk.label>
@@ -21,9 +21,9 @@
   <!-- EN: Induce noise in the visual centers of the brain, obscuring vision of everyone near the target point. -->
   <BlindingPulse.description>Induza um ruído nos centros visuais do cérebro, obscurecendo a visão de todos os que estão perto do ponto-alvo.</BlindingPulse.description>
   
-  <!-- EN: bullet shield -->
+  <!-- EN: skipshield -->
   <BulletShield.label>escudo de balas</BulletShield.label>
-  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. People and items are not affected. -->
+  <!-- EN: Generate a spherical skipgate that sends all incoming and outgoing ground-level projectiles to some distant place. The process is forceful enough to detonate explosive projectiles. People and items are not affected. -->
   <BulletShield.description>Gere um skipgate esférico que envia todos os projéteis vindo e saindo na altura do solo para algum lugar distante. Pessoas e itens não são afetados.</BulletShield.description>
   
   <!-- EN: burden -->
@@ -33,18 +33,28 @@
   
   <!-- EN: chaos skip -->
   <ChaosSkip.label>teleporte caótico</ChaosSkip.label>
-  <!-- EN: Teleport the target to a random position near where he started. -->
+  <!-- EN: Teleport the target to a random position near where it started. Objects above a certain size cannot be teleported. -->
   <ChaosSkip.description>Teleporte o alvo para uma posição aleatória perto de onde ele estava.</ChaosSkip.description>
+  
+  <!-- EN: chunk skip -->
+  <Chunkskip.label>teleporte de pedaços</Chunkskip.label>
+  <!-- EN: Skip the closest 5 chunks of rock or slag to scatter them near the target point. This is useful for producing cover during offensive operations. -->
+  <Chunkskip.description>Teleporte os 5 pedaços de rochas mais próximos ou entulhe para separá-los perto do alvo. Isso é útil para produzir cobertura durante operações ofensivas.</Chunkskip.description>
   
   <!-- EN: neural heat dump -->
   <EntropyDump.label>despejo de calor neural</EntropyDump.label>
   <!-- EN: Instantly dump all your neural heat into someone else. As a side-effect, the target will fall into a debilitating but non-damaging coma for about a day. The target must actively accept the psychic invasion, so only conscious allies can be targeted. -->
   <EntropyDump.description>Despeje instantaneamente todo o seu calor neural em outra pessoa. Como efeito colateral, o alvo entrará em coma debilitante, mas não prejudicial, por cerca de um dia. O alvo deve aceitar ativamente a invasão psíquica, para que apenas aliados conscientes possam ser alvejados.</EntropyDump.description>
   
+  <!-- EN: farskip -->
+  <Farskip.label>teleporte longo</Farskip.label>
+  <!-- EN: Skip the caster, along with anyone standing near them, to an ally at a distant location. This can send people far across the planet, but only works if there is a willing ally on the other side to use as a navigation beacon. The skipped people will always appear near a random ally on the target map. -->
+  <Farskip.description>Teleporte o caster, junto com todos que estão perto dele, para um aliado em um local distante. Isso serve para enviar pessoas para bem longe do planeta, porém só funciona se tem um aliado do outro lado disposto a ser uma satélite de navegação. As pessoas teletransportadas sempre vão aparecer perto de um aliado aleatório do mapa escolhido.</Farskip.description>
+  
   <!-- EN: flashstorm -->
   <Flashstorm.label>tempestade</Flashstorm.label>
   <!-- EN: Use differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The storm will strike the area with lightning for some time before dissipating. -->
-  <Flashstorm.description>Use skipgates de pressão diferencial na atmosfera para gerar uma tempestade de raios localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</Flashstorm.description>
+  <Flashstorm.description>Use skipgates de pressão diferencial na atmosfera para gerar uma tempestade localizada. A tempestade atingirá a área com raios por algum tempo antes de se dissipar.</Flashstorm.description>
   
   <!-- EN: focus -->
   <Focus.label>foco</Focus.label>
@@ -63,8 +73,15 @@
   
   <!-- EN: mass chaos skip -->
   <MassChaosSkip.label>teleporte caótico massivo</MassChaosSkip.label>
-  <!-- EN: Skip everyone near a target point to a random location nearby. -->
+  <!-- EN: Skip everyone in an area to random positions nearby. Objects which are too large cannot be teleported. -->
   <MassChaosSkip.description>Teleporte todos perto de um ponto-alvo para um local aleatório próximo.</MassChaosSkip.description>
+  
+  <!-- EN: neuroquake -->
+  <Neuroquake.label>terremoto neural</Neuroquake.label>
+  <!-- EN: Find a discontinuity in the psychic field and unfold it, releasing a massive amount of psychic energy. Every creature in range but outside of the safe, inner, circle will be driven violently insane. Casting this takes 12 seconds of meditation, and afterwards, the caster will go into a five-day psychic coma. The disturbing neuroquake echoes will inflict pain on everyone for many kilometers around, causing diplomatic consequences with all factions. -->
+  <Neuroquake.description>Encontra uma descontinuidade no campo psíquico e desdobra-a, liberando uma enorme quantidade de energia psíquica. Cada criatura ao alcance, mas fora do círculo interno seguro será levada violentamente à loucura. Lançar isso leva 12 segundos de meditação e, depois, o lançador entrará em um coma psíquico de cinco dias. Os ecos perturbadores do terremoto neural causarão dor a todos por muitos quilômetros ao redor, causando consequências diplomáticas para todas as facções.</Neuroquake.description>
+  <!-- EN: If you use neuroquake, everyone in this region will feel the neuroquake echo, you will lose goodwill with every non-hostile faction.\n\nNeuroquake takes 12 seconds to cast, and cannot be interrupted. When complete, the caster will fall into a psychic coma for 5 days.\n\nEveryone in range except those in a small circle around the caster will be affected.\n\nDo you really want to cast neuroquake? -->
+  <Neuroquake.confirmationDialogText>Se você usar o terremoto neural, todos nesta região sentirão seu eco, você perderá a boa vontade com todas as facções não hostis.\n\nO terremoto neural leva 12 segundos para ser lançado e não pode ser interrompido. Quando concluído, o lançador entrará em um coma psíquico por 5 dias.\n\nTodos ao alcance, exceto aqueles em um pequeno círculo ao redor do lançador, serão afetados.\n\nVocê realmente deseja lançar o terremoto neural?</Neuroquake.confirmationDialogText>
   
   <!-- EN: painblock -->
   <Painblock.label>bloqueador de dor</Painblock.label>
@@ -73,13 +90,18 @@
   
   <!-- EN: skip -->
   <Skip.label>teleporte</Skip.label>
-  <!-- EN: Teleport the target to a desired position not too far from his starting point. -->
+  <!-- EN: Teleport the target to a desired position not too far from its starting point. Objects which are too large cannot be teleported. -->
   <Skip.description>Teleporte o alvo para uma posição desejada não muito longe do ponto de partida.</Skip.description>
   
   <!-- EN: smokepop -->
   <Smokepop.label>bomba de fumaça</Smokepop.label>
-  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and preventing turrets from locking on entirely. -->
+  <!-- EN: Skip dust particles up from under the ground surface to form a thick cloud. This reduces the accuracy of any shot fired through it, and prevents turrets from locking on entirely. -->
   <Smokepop.description>Agite as partículas de poeira sob a superfície do solo para formar uma nuvem espessa. Isso reduz a precisão de qualquer tiro disparado através dela e evita que as torretas travem o alvo com eficiência.</Smokepop.description>
+  
+  <!-- EN: solar pinhole -->
+  <SolarPinhole.label>Ponta de agulha solar</SolarPinhole.label>
+  <!-- EN: Generate a microscopic skipgate linked to the core of a nearby star. Solar material leaks through the pinprick in spacetime, illuminating and warming the surrounding area until it closes. The light is enough to work by, but not enough to grow plants. -->
+  <SolarPinhole.description>Gera uma ponta microscópica ligada ao centro de uma estrela próxima. Material solar vaza através das fissuras do espaço tempo, iluminando e aquecendo áreas ao redor até que se feche. A luz é suficiente para trabalhos, mas não suficiente para crescer plantas.</SolarPinhole.description>
   
   <!-- EN: throne speech -->
   <Speech.label>discurso do trono</Speech.label>
@@ -88,7 +110,7 @@
   
   <!-- EN: stun -->
   <Stun.label>atordoamento</Stun.label>
-  <!-- EN: Momentarily disrupt motor function in target's brain, preventing any movement. -->
+  <!-- EN: Momentarily disrupt motor function in the target's brain, preventing any movement. -->
   <Stun.description>Interrompa momentaneamente a função motora no cérebro do alvo, impedindo qualquer movimento.</Stun.description>
   
   <!-- EN: vertigo pulse -->
@@ -104,6 +126,31 @@
   <!-- EN: waterskip -->
   <Waterskip.label>mergulhar</Waterskip.label>
   <!-- EN: Douse a target area in water, extinguishing fires. The water is archotechnologically skipped from distant bodies of water or underground aquifers. -->
-  <Waterskip.description>Mergulhe uma área alvo na água, extinguindo incêndios. A água é archotecnologicamente teletransportada de corpos distantes de água ou aquíferos subterrâneos.</Waterskip.description>
+  <Waterskip.description>Mergulhe uma área alvo na água, extinguindo incêndios. A água é arquotecnologicamente teletransportada de corpos distantes de água ou aquíferos subterrâneos.</Waterskip.description>
+  
+  <!-- EN: word of inspiration -->
+  <WordOfInspiration.label>palavra de inspiração</WordOfInspiration.label>
+  <!-- EN: Speak words encouraging creativity while psychically hypercharging the target's mind with new ideas. The target will experience a random inspiration appropriate to them. -->
+  <WordOfInspiration.description>Fale palavras encorajadoras e criativas enquanto encha psíquicamente a cabeça do alvo com novas ideias. O alvo experimentará inspirações aleatórias, mas apropriadas para eles.</WordOfInspiration.description>
+  
+  <!-- EN: word of joy -->
+  <WordOfJoy.label>palavra de alegria</WordOfJoy.label>
+  <!-- EN: Speak happy, calming words to someone while using psychic suggestion to implant a joyfuzz loop in their mind. The joyfuzz will suppress uncomfortable thoughts and sensations in the target to improve mood. This has the side-effect of dulling sensation and decision-making, which reduces consciousness. -->
+  <WordOfJoy.description>Fale de maneira feliz, com palavras tranquilizantes para alguém enquanto usa a sugestão psíquica para implementar uma euforia de felicidade em loop na sua mente. A euforia de felicidade reprimirá pensamentos e sensações desconfortáveis no alvo para melhorar o seu humor. Isso, no entanto, tem um efeito colateral de desnivelar o bom senso na hora de tomar decisões, o que diminui a sua consciência.</WordOfJoy.description>
+  
+  <!-- EN: word of love -->
+  <WordOfLove.label>palavra de amor</WordOfLove.label>
+  <!-- EN: Speak about someone's romantic virtues while using psychic suggestion to implant romantic desire in the listener. For days afterward, the listener will feel psychically-induced romantic attraction towards the other person. This greatly increases opinion and makes them much more likely to attempt romantic advances and marriage proposals if they get the chance. This power can be used to connect two other people, induce love for the caster, or force oneself to love another. -->
+  <WordOfLove.description>Fale sobre as virtudes românticas de alguém enquanto estiver usando a sugestão psíquica para implementar desejo amoroso no ouvinte. Por vários dias, o ouvinte se sentirá psíquicamente induzido de maneira romântica e sentirá atração por outra pessoa. Isso melhora muito a imagem do outro e aumenta as chances de terem investidas românticas e até propostas de casamentos, se tiverem uma chance. Este poder pode ser usado para conectar duas pessoas, induzir amor para o conjurador, ou forçar alguém amar outra pessoa.</WordOfLove.description>
+  
+  <!-- EN: word of serenity -->
+  <WordOfSerenity.label>palavra de serenidade</WordOfSerenity.label>
+  <!-- EN: Use calming words and psychic suggestion to end a mental break on a person. The target will fall into a short psychic sleep. The psyfocus cost depends on the intensity of the target's mental break. -->
+  <WordOfSerenity.description>Use palavras tranquilizantes e sugestão psíquica para acabar com intenso estado de estresse mental de uma pessoa. O alvo cairá brevemente em um sono psíquico. O custo de concentração psíquica dependerá da intensidade de estresse mental do alvo.</WordOfSerenity.description>
+  
+  <!-- EN: word of trust -->
+  <WordOfTrust.label>palavra de confiança</WordOfTrust.label>
+  <!-- EN: Speak to the prisoner while using psychic suggestion to reduce their resistance to recruitment. This can only reduce a prisoner's resistance, but cannot recruit them. -->
+  <WordOfTrust.description>Fale com um prisioneiro enquanto estiver usando sugestão psíquica para reduzir sua resistência no momento do recrutamento. Isso não faz que o prisioneiro seja recrutado, apenas diminui sua resistência.</WordOfTrust.description>
   
 </LanguageData>

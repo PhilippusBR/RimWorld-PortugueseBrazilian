@@ -11,6 +11,11 @@
   <LetterSecond>s</LetterSecond>
   <!-- EN: y -->
   <LetterYear>a</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>AM</AM>
+  <!-- EN: PM -->
+  <PM>PM</PM>
 
   <!-- EN: days -->
   <DaysLower>dias</DaysLower>
@@ -33,7 +38,7 @@
   <SeasonPermanentWinter>inverno permanente</SeasonPermanentWinter>
 
   <!-- EN: Aprimay -->
-  <QuadrumAprimay>Abrilmaio</QuadrumAprimay>
+  <QuadrumAprimay>Abrimaio</QuadrumAprimay>
   <!-- EN: Jugust -->
   <QuadrumJugust>Jugosto</QuadrumJugust>
   <!-- EN: Septober -->
@@ -86,5 +91,7 @@
   <Lasted>Durou</Lasted>
   <!-- EN: occurred {0} ago -->
   <OccurredTimeAgo>ocorreu {0} atrás</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>{0} atrás</TimeAgo>
   
 </LanguageData>

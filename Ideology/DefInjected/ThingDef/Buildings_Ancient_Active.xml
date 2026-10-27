@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient comms console -->
+  <AncientCommsConsole.label>console de comunicação ancestral</AncientCommsConsole.label>
+  <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientCommsConsole.description>Um console ancestral com um prato de comunicação acoplado. Faltam peças valiosas e tudo o mais está degradado à inutilidade.</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>Hackeie para acessar o satélite de suprimentos ancião.</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: ancient enemy terminal -->
+  <AncientEnemyTerminal.label>terminal inimigo ancestral</AncientEnemyTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
+  <AncientEnemyTerminal.description>Um terminal ancestral de computador. Pode ser hackeado para revelar informações há muito esquecidas.</AncientEnemyTerminal.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>Hackear este {0} alertará os inimigos e fará com que eles ataquem.</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>Hackeie para chamar inimigos próximos.</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
+  
+  <!-- EN: security crate -->
+  <AncientSecurityCrate.label>caixa de segurança</AncientSecurityCrate.label>
+  <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
+  <AncientSecurityCrate.description>Uma grande caixa autoenergizada hermeticamente fechada com alarmes de segurança embutidos. Podem preservar seu conteúdo por muito tempo. Se for aberto sem o código adequado, provavelmente ativará algum sistema de segurança próximo.</AncientSecurityCrate.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal.label>terminal ancestral</AncientTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal.description>Um terminal ancestral de computador. Pode ser hackeado para revelar informações há muito esquecidas.</AncientTerminal.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal_Worshipful.label>terminal ancestral</AncientTerminal_Worshipful.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal_Worshipful.description>Um terminal ancestral de computador. Pode ser hackeado para revelar informações há muito esquecidas.</AncientTerminal_Worshipful.description>
+  
+</LanguageData>

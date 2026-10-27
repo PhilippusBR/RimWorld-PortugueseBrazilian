@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: Analyzing TargetA. -->
+  <AnalyzeItem.reportString>Analisando TargetA.</AnalyzeItem.reportString>
+  
   <!-- EN: arresting TargetA. -->
   <Arrest.reportString>prendendo TargetA.</Arrest.reportString>
   
@@ -11,10 +14,22 @@
   <Capture.reportString>capturando TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnDrafted.reportString>carregando TargetA.</CarryDownedPawnDrafted.reportString>
+  
+  <!-- EN: carrying TargetA. -->
   <CarryDownedPawnToExit.reportString>transportando TargetA.</CarryDownedPawnToExit.reportString>
+  
+  <!-- EN: carrying TargetA. -->
+  <CarryDownedPawnToPortal.reportString>transportando TargetA.</CarryDownedPawnToPortal.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
   <CarryToCryptosleepCasket.reportString>carregando TargetA para sarcófago de criptosono.</CarryToCryptosleepCasket.reportString>
+  
+  <!-- EN: carrying TargetA to cryptosleep casket. -->
+  <CarryToCryptosleepCasketDrafted.reportString>carregando TargetA para sarcófago de criptosono.</CarryToCryptosleepCasketDrafted.reportString>
+  
+  <!-- EN: arresting TargetA. -->
+  <CarryToPrisonerBedDrafted.reportString>prendendo TargetA.</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
   <Clean.reportString>limpando TargetA.</Clean.reportString>
@@ -28,6 +43,9 @@
   <!-- EN: deconstructing TargetA. -->
   <Deconstruct.reportString>desconstruindo TargetA.</Deconstruct.reportString>
   
+  <!-- EN: deconstructing TargetA. -->
+  <DeconstructForBlueprint.reportString>desconstruindo TargetA.</DeconstructForBlueprint.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>entregando TargetA para TargetB.</DeliverFood.reportString>
   
@@ -37,14 +55,29 @@
   <!-- EN: escorting prisoner TargetA. -->
   <EscortPrisonerToBed.reportString>escoltando prisioneiro TargetA.</EscortPrisonerToBed.reportString>
   
+  <!-- EN: extracting skull from TargetA. -->
+  <ExtractSkull.reportString>retirando crânio de TargetA.</ExtractSkull.reportString>
+  
+  <!-- EN: extracting TargetA. -->
+  <ExtractTree.reportString>extraindo TargetA.</ExtractTree.reportString>
+  
   <!-- EN: feeding TargetA to TargetB. -->
   <FeedPatient.reportString>levando TargetA para TargetB.</FeedPatient.reportString>
+  
+  <!-- EN: filling in TargetA. -->
+  <FillIn.reportString>preechendo TargetA</FillIn.reportString>
   
   <!-- EN: building TargetA. -->
   <FinishFrame.reportString>construindo TargetA.</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
   <FixBrokenDownBuilding.reportString>substituindo componentes quebrados em TargetA.</FixBrokenDownBuilding.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <GuiltyColonistExecution.reportString>executando TargetA.</GuiltyColonistExecution.reportString>
+  
+  <!-- EN: hacking TargetA. -->
+  <Hack.reportString>hackeando TargetA.</Hack.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>colhendo TargetA.</Harvest.reportString>
@@ -76,8 +109,17 @@
   <!-- EN: scanning at TargetA. -->
   <OperateScanner.reportString>escaneando em TargetA</OperateScanner.reportString>
   
+  <!-- EN: painting TargetA. -->
+  <PaintBuilding.reportString>pintando TargetA.</PaintBuilding.reportString>
+  
+  <!-- EN: painting TargetA. -->
+  <PaintFloor.reportString>pintando TargetA.</PaintFloor.reportString>
+  
   <!-- EN: building TargetA. -->
   <PlaceNoCostFrame.reportString>construindo TargetA.</PlaceNoCostFrame.reportString>
+  
+  <!-- EN: planting TargetA. -->
+  <PlantSeed.reportString>plantando TargetA.</PlantSeed.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
   <PrisonerAttemptRecruit.reportString>tentando recrutar TargetA.</PrisonerAttemptRecruit.reportString>
@@ -85,11 +127,23 @@
   <!-- EN: executing TargetA. -->
   <PrisonerExecution.reportString>executando TargetA.</PrisonerExecution.reportString>
   
+  <!-- EN: releasing TargetA into the wild. -->
+  <ReleaseAnimalToWild.reportString>libertando TargetA.</ReleaseAnimalToWild.reportString>
+  
   <!-- EN: releasing TargetA. -->
   <ReleasePrisoner.reportString>soltando TargetA.</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
   <RemoveFloor.reportString>removendo piso.</RemoveFloor.reportString>
+  
+  <!-- EN: removing foundation. -->
+  <RemoveFoundation.reportString>removendo fundação.</RemoveFoundation.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintBuilding.reportString>removendo pintura de TargetA.</RemovePaintBuilding.reportString>
+  
+  <!-- EN: removing paint from TargetA. -->
+  <RemovePaintFloor.reportString>removendo pintura de TargetA.</RemovePaintFloor.reportString>
   
   <!-- EN: removing roof. -->
   <RemoveRoof.reportString>removendo telhado.</RemoveRoof.reportString>
@@ -97,11 +151,23 @@
   <!-- EN: repairing TargetA. -->
   <Repair.reportString>reparando TargetA.</Repair.reportString>
   
+  <!-- EN: replanting TargetA. -->
+  <Replant.reportString>replantando TargetA.</Replant.reportString>
+  
   <!-- EN: rescuing TargetA. -->
   <Rescue.reportString>resgatando TargetA.</Rescue.reportString>
   
   <!-- EN: researching. -->
   <Research.reportString>pesquisando.</Research.reportString>
+  
+  <!-- EN: leading TargetA to hitching spot. -->
+  <RopeRoamerToHitchingPost.reportString>levando TargetA para o ponto de engate.</RopeRoamerToHitchingPost.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeRoamerToUnenclosedPen.reportString>levando TargetA para TargetC.</RopeRoamerToUnenclosedPen.reportString>
+  
+  <!-- EN: leading TargetA to TargetC. -->
+  <RopeToPen.reportString>levando TargetA para TargetC.</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
   <Shear.reportString>tosquiando TargetA.</Shear.reportString>
@@ -121,6 +187,15 @@
   <!-- EN: stealing TargetA. -->
   <Steal.reportString>roubando TargetA.</Steal.reportString>
   
+  <!-- EN: Studying TargetA. -->
+  <StudyInteract.reportString>estudando TargetA.</StudyInteract.reportString>
+  
+  <!-- EN: Studying TargetA. -->
+  <StudyItem.reportString>Estudando TargetA.</StudyItem.reportString>
+  
+  <!-- EN: taking TargetA to bed. -->
+  <TakeDownedPawnToBedDrafted.reportString>levando TargetA para a cama.</TakeDownedPawnToBedDrafted.reportString>
+  
   <!-- EN: taking TargetA to bed. -->
   <TakeToBedToOperate.reportString>levando TargetA para a cama.</TakeToBedToOperate.reportString>
   
@@ -131,13 +206,16 @@
   <Tame.reportString>domando TargetA.</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>atendendo TargetA.</TendPatient.reportString>
+  <TendPatient.reportString>Cuidando de TargetA.</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
   <Train.reportString>treinando TargetA.</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
   <Uninstall.reportString>desinstalando TargetA.</Uninstall.reportString>
+  
+  <!-- EN: unroping TargetA. -->
+  <Unrope.reportString>desamarrando TargetA.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
   <UseCommsConsole.reportString>usando console de comunicação.</UseCommsConsole.reportString>

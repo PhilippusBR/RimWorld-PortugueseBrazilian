@@ -6,47 +6,77 @@
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
   <AncientCryptosleepCasket.description>Este sarcófago de criptosono parece que está aqui há muito tempo. Quem sabe o que ele pode conter?</AncientCryptosleepCasket.description>
   
-  <!-- EN: caravan packing spot -->
-  <CaravanPackingSpot.label>local de formação de caravana</CaravanPackingSpot.label>
-  <!-- EN: Designates a spot for forming caravans. Put this near your stockpiles to speed up the caravan loading process. -->
-  <CaravanPackingSpot.description>Designa um local onde as caravanas serão formadas.</CaravanPackingSpot.description>
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>ponto de formação de caravana</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Designa um local onde as caravanas serão formadas. Colonos prenderão os animais aqui enquanto carregam a caravana. Você também pode usar durante encontros longe de casa para evitar que os animais vaguem.</CaravanPackingSpot.description>
+  
+  <!-- EN: cave exit -->
+  <CaveExit.label>saída da caverna</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>Uma corda que liga à superfície acima.</CaveExit.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>console de comunicação</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <CommsConsole.description>Permite o contato por rádio com outras facções e comerciantes orbitais.</CommsConsole.description>
+  <!-- EN: Summon diabolus threat -->
+  <CommsConsole.comps.CompUsable.useLabel>Invocar ameaça diabólica</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>cratera</CraterLarge.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterLarge.description>Um pequeno buraco formado por um forte impacto ou uma explosão.</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>cratera</CraterMedium.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterMedium.description>Um pequeno buraco formado por um forte impacto ou uma explosão.</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>cratera</CraterSmall.label>
+  <!-- EN: A small pit formed by a powerful impact or explosion. -->
+  <CraterSmall.description>Um pequeno buraco formado por um forte impacto ou uma explosão.</CraterSmall.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>sarcófago de criptosono</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
   <CryptosleepCasket.description>Um sarcófago auto-alimentado projetado para manter uma pessoa em um estado de animação suspensa por milhares de anos.</CryptosleepCasket.description>
   
+  <!-- EN: delayed effecter spawner -->
+  <DelayedEffecterSpawner.label>gerador atrasados de efetores</DelayedEffecterSpawner.label>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>caixa de ovos</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Uma caixa com material macio para guardar ovos. Animais que põem ovos colocam ovos em caixas, se puderem. Seus transportadores retirarão todos os ovos somente quando a caixa estiver cheia, para economizar tempo. A caixa também protege os ovos da deterioração ao ar livre, embora não os proteja dos danos causados ​​pela temperatura.</EggBox.description>
+  
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>dispositivo de espuma contra fogo</FirefoamPopper.label>
+  <FirefoamPopper.label>dispositivo de espuma de supressão ao fogo</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
   <FirefoamPopper.description>Quando tocado pelo fogo ou desencadeado à mão, isto solta uma espuma que extingue incêndios em um campo circular em torno de si.</FirefoamPopper.description>
-  <!-- EN: Trigger firefoam popper -->
-  <FirefoamPopper.comps.CompUsable.useLabel>Acionar dispositivo de espuma contra fogo</FirefoamPopper.comps.CompUsable.useLabel>
+  <!-- EN: Trigger {0_label} -->
+  <FirefoamPopper.comps.CompUsable.useLabel>Acionar {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
   <Grave.label>túmulo</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>Coloque os mortos em túmulos para dar-lhes um lugar de descanso decente. Os colonos irão visitar os túmulos cheios para ganhar alegria meditativa.</Grave.description>
+  <Grave.description>Coloque os mortos em túmulos para dar-lhes um lugar de descanso decente. Os colonos visitarão os túmulos cheios para ganhar alegria meditativa.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>scanner penetrador subterrâneo</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>escaneadora penetradora subterrânea</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
   <GroundPenetratingScanner.description>Um radar de penetração voltado para baixo, combinado com sonar e ressonância magnética, permite detectar (mas não identificar) minerais enterrados nas profundezas da superfície. Requer uma enorme quantidade de eletricidade.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>scanner de minerais de longo alcance</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>escaneadora de minerais de longo alcance</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>Pode ser usado por pesquisadores para detectar um tipo específico de mineral em todo o planeta. O tempo necessário para encontrar o recurso é aleatório e depende da habilidade do pesquisador.</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Pode ser usada por pesquisadores para detectar um tipo específico de mineral em todo o planeta. O tempo necessário para encontrar o recurso é aleatório e depende da habilidade do pesquisador.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>local de casamento</MarriageSpot.label>
+  <MarriageSpot.label>ponto de casamento</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>Designa um local onde cerimônias de casamento irão acontecer. Os espectadores podem assistir de qualquer lado.</MarriageSpot.description>
+  <MarriageSpot.description>Designa um local onde cerimônias de casamento acontecerão. Os espectadores podem assistir de qualquer lado.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
   <MoisturePump.label>bomba de umidade</MoisturePump.label>
@@ -64,9 +94,14 @@
   <OrbitalTradeBeacon.description>Requerido para negociação orbital. Você só pode vender bens que estão perto de uma baliza de comércio orbital. Pode ser colocada em interiores.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>local de festa</PartySpot.label>
+  <PartySpot.label>ponto de festa</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>Designa um local onde festas serão concentradas. Festam irão acontecer em torno do local.</PartySpot.description>
+  <PartySpot.description>Designa um local onde festas serão concentradas. Festas acontecerão em torno do ponto.</PartySpot.description>
+  
+  <!-- EN: pen marker -->
+  <PenMarker.label>marcador de curral</PenMarker.label>
+  <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
+  <PenMarker.description>Um poste com uma placa designando um curral para animais. Deve ser colocado em uma área cercada por cercas, barricadas, paredes e portas. Você pode atribuir a cada marcador de curral um conjunto de animais para aceitar e os domadores levarão os animais para um curral apropriado.</PenMarker.description>
   
   <!-- EN: pod launcher -->
   <PodLauncher.label>lançador de cápsula</PodLauncher.label>
@@ -90,13 +125,13 @@
   
   <!-- EN: tool cabinet -->
   <ToolCabinet.label>armário de ferramentas</ToolCabinet.label>
-  <!-- EN: Increases work speed when placed near a workbench. One workbench use to up to two tool cabinets. -->
+  <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
   <ToolCabinet.description>Aumenta a velocidade do trabalho quando colocado perto de uma bancada de trabalho. Uma bancada de trabalho pode usar até dois armários de ferramentas.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
   <TransportPod.label>cápsula de transporte</TransportPod.label>
-  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>Um cápsula de carga lançável de viagem suborbital capaz de transportar pessoas, itens, ou animais. Pode ser usada para transporte, ataques surpresa, ou reforçar as batalhas.</TransportPod.description>
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
+  <TransportPod.description>Uma cápsula de carga lançável capaz de transportar pessoas, itens ou animais. Pode ser usada para enviar presentes, transportar pessoas ou suprimentos, realizar ataques surpresa ou reforçar batalhas.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
   <VitalsMonitor.label>monitor de sinais vitais</VitalsMonitor.label>

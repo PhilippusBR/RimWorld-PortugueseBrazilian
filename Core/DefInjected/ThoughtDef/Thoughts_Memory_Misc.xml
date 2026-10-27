@@ -4,7 +4,7 @@
   <!-- EN: ate without table -->
   <AteWithoutTable.stages.ate_without_table.label>comeu sem mesa</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
-  <AteWithoutTable.stages.ate_without_table.description>Eu tive que comer uma refeição no chão. Não podemos obter uma mesa por aqui?</AteWithoutTable.stages.ate_without_table.description>
+  <AteWithoutTable.stages.ate_without_table.description>Eu tive que comer uma refeição no chão. Não podemos ter uma mesa por aqui?</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
   <BondedAnimalBanished.stages.bonded_animal_banished.label>mascote de {0} banido</BondedAnimalBanished.stages.bonded_animal_banished.label>
@@ -16,20 +16,28 @@
   <!-- EN: I butchered someone up like an animal. -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Eu esquartejei alguém como um animal.</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
+  <!-- EN: butchered humanlike corpse -->
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>esquartejou cadáver humano</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  
   <!-- EN: catharsis -->
   <Catharsis.stages.catharsis.label>desabafou</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
   <Catharsis.stages.catharsis.description>Me sinto bem depois de finalmente desengarrafar os meus sentimentos.</Catharsis.stages.catharsis.description>
   
   <!-- EN: colonist banished -->
-  <ColonistBanished.stages.colonist_banished.label>colonizador banido</ColonistBanished.stages.colonist_banished.label>
-  <!-- EN: We just banished someone. I hope they'll make it, but I'm worried. -->
-  <ColonistBanished.stages.colonist_banished.description>Acabamos de banir alguém. Espero que eles consigam, mas estou preocupada.</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanished.stages.colonist_banished.label>colono banido</ColonistBanished.stages.colonist_banished.label>
+  <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
+  <ColonistBanished.stages.colonist_banished.description>Acabamos de banir alguém. Espero que ele fique bem, mas estou preocupado(a).</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>colonizador banido para morrer</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>colono banido para morrer</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
   <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Nós banimos alguém de tal maneira que quase não há como sobreviver.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  
+  <!-- EN: Colonist prisoner escaped -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>Colono prisioneiro escapou</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Não conseguimos manter o controle nem de nosso próprio povo? Eu sinto que qualquer coisa pode acontecer comigo aqui.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>derrotou líder hostil {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
@@ -39,10 +47,20 @@
   <!-- EN: defeated hostile leader -->
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>líder hostil derrotado</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
+  <!-- EN: defeated insect hive -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>derrotou colmeia insetoide</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <!-- EN: The only good bug is a dead bug! -->
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>Inseto bom é inseto morto!</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  
   <!-- EN: defeated mech cluster -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.label>aglomerado mecanoide derrotado</DefeatedMechCluster.stages.defeated_mech_cluster.label>
   <!-- EN: Blood beats metal, you damn machines! -->
   <DefeatedMechCluster.stages.defeated_mech_cluster.description>Sangue supera metal, suas malditas máquinas!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  
+  <!-- EN: denied joining -->
+  <DeniedJoining.stages.denied_joining.label>recusou entrada</DeniedJoining.stages.denied_joining.label>
+  <!-- EN: We just denied someone's request to join us. I hope they make it. -->
+  <DeniedJoining.stages.denied_joining.description>Acabamos de negar o pedido de alguém para se juntar a nós. Espero que ele fique bem.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
   <FailedToRescueRelative.stages.failed_to_rescue.label>falhou ao resgatar {0}</FailedToRescueRelative.stages.failed_to_rescue.label>
@@ -53,6 +71,11 @@
   <FreedFromSlavery.stages.freed_from_slavery.label>libertado da escravidão</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
   <FreedFromSlavery.stages.freed_from_slavery.description>Eu fui libertado da escravidão. Estou muito agradecido!</FreedFromSlavery.stages.freed_from_slavery.description>
+  
+  <!-- EN: bloodlust organ harvested -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>sede de sangue colheu órgão</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Extrair a carne de seu corpo é tão sangrento e satisfatório.</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
   <KilledHumanlikeBloodlust.stages.killed_someone.label>matou alguém</KilledHumanlikeBloodlust.stages.killed_someone.label>
@@ -90,7 +113,7 @@
   <MyOrganHarvested.stages.my_organ_harvested.description>A colônia colheu partes do meu corpo! Eles estão me quebrando como um motor velho!</MyOrganHarvested.stages.my_organ_harvested.description>
   
   <!-- EN: initial hope -->
-  <NewColonyHope.stages.initial_hope.label>nova esperança da colônia</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.label>esperança inicial</NewColonyHope.stages.initial_hope.label>
   <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
   <NewColonyHope.stages.initial_hope.description>Estou me acostumando com isso, mas ainda é uma situação nova e excitante. Espero que isso funcione...</NewColonyHope.stages.initial_hope.description>
   
@@ -100,9 +123,13 @@
   <NewColonyOptimism.stages.initial_optimism.description>É uma situação difícil, mas estou animado para fundar uma nova colônia.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled.label>acariciado</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled-0.label>acariciado</Nuzzled.stages.nuzzled-0.label>
   <!-- EN: A cute animal nuzzled me. -->
-  <Nuzzled.stages.nuzzled.description>Um animal fofo me acariciou.</Nuzzled.stages.nuzzled.description>
+  <Nuzzled.stages.nuzzled-0.description>Um animal fofo me acariciou.</Nuzzled.stages.nuzzled-0.description>
+  <!-- EN: nuzzled -->
+  <Nuzzled.stages.nuzzled-1.label>acariciado</Nuzzled.stages.nuzzled-1.label>
+  <!-- EN: It is so cute, and supportive, and loving... I feel fulfilled and refreshed. -->
+  <Nuzzled.stages.nuzzled-1.description>É tão fofo, tão solidário e amoroso... Sinto-me realizada e renovada.</Nuzzled.stages.nuzzled-1.description>
   
   <!-- EN: observed corpse -->
   <ObservedLayingCorpse.stages.observed_corpse.label>observou cadáver</ObservedLayingCorpse.stages.observed_corpse.label>
@@ -123,6 +150,11 @@
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>prisioneiro banido para morrer</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
   <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Nós banimos um prisioneiro de tal maneira que quase não há como sobreviver.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  
+  <!-- EN: used flame weapon -->
+  <PyroUsed.stages.used_flame_weapon.label>arma de fogo usada</PyroUsed.stages.used_flame_weapon.label>
+  <!-- EN: The searing heat will make my foes beautiful! -->
+  <PyroUsed.stages.used_flame_weapon.description>O calor escaldante deixará meus inimigos lindos!</PyroUsed.stages.used_flame_weapon.description>
   
   <!-- EN: prisoner released -->
   <ReleasedHealthyPrisoner.stages.prisoner_released.label>prisioneiro libertado</ReleasedHealthyPrisoner.stages.prisoner_released.label>
@@ -168,6 +200,15 @@
   <SoakingWet.stages.soaking_wet.label>encharcado</SoakingWet.stages.soaking_wet.label>
   <!-- EN: I'm soaking wet. -->
   <SoakingWet.stages.soaking_wet.description>Eu entrei na água e agora estou encharcado. Eu gostaria de ter usado uma ponte.</SoakingWet.stages.soaking_wet.description>
+  
+  <!-- EN: eager to travel -->
+  <TravelAnticipation.stages.eager_to_travel.label>ansioso para viajar</TravelAnticipation.stages.eager_to_travel.label>
+  <!-- EN: I've been preparing this caravan for a while. I'm looking forward to the upcoming journey. -->
+  <TravelAnticipation.stages.eager_to_travel.description>Estou preparando essa caravana já faz um tempo. Estou ansioso para a nova aventura.</TravelAnticipation.stages.eager_to_travel.description>
+  <!-- EN: excited to travel -->
+  <TravelAnticipation.stages.excited_to_travel.label>animado para viajar</TravelAnticipation.stages.excited_to_travel.label>
+  <!-- EN: So much thought and preparation have gone into this adventure. I can't wait to set off! -->
+  <TravelAnticipation.stages.excited_to_travel.description>Muitas reflexões e preparações foram dedicadas para essa aventura. Mal posso esperar para irmos!</TravelAnticipation.stages.excited_to_travel.description>
   
   <!-- EN: was imprisoned -->
   <WasImprisoned.stages.was_imprisoned.label>foi aprisionado</WasImprisoned.stages.was_imprisoned.label>

@@ -24,7 +24,7 @@
   <!-- EN: chinchilla fur -->
   <Leather_Chinchilla.label>pele de chinchila</Leather_Chinchilla.label>
   <!-- EN: Tanned, dried, scraped chinchilla skin. Known as an extremely luxurious and insulating fur, it is exceptionally valuable. -->
-  <Leather_Chinchilla.description>Pele de chinchila curtida, seca e raspada. Conhecido como um pêlo extremamente luxuoso e isolante, é excepcionalmente valiosa.</Leather_Chinchilla.description>
+  <Leather_Chinchilla.description>Pele de chinchila curtida, seca e raspada. Conhecido como um pelo extremamente luxuoso e isolante, é excepcionalmente valiosa.</Leather_Chinchilla.description>
   
   <!-- EN: dog leather -->
   <Leather_Dog.label>couro de cachorro</Leather_Dog.label>
@@ -74,7 +74,7 @@
   <!-- EN: patchleather -->
   <Leather_Patch.label>remendo de couro</Leather_Patch.label>
   <!-- EN: A weak textile created by cutting up and sewing together various types of leathers. Regardless of what kind of leather is used to create it, patchleather's irregular seams make it less tough and less insulating than any intact leather. -->
-  <Leather_Patch.description>Um tecido fraco cortando e costurando com vários tipos de couros. Independente do tipo de couro usado para criá-lo, as costuras irregulares do remendo de couro o tornam menos resistente e menos isolante do que qualquer couro intacto.</Leather_Patch.description>
+  <Leather_Patch.description>Um tecido fraco feito com corte e costura de vários tipos de couros. Independente do tipo de couro usado para criá-lo, as costuras irregulares do remendo de couro o tornam menos resistente e menos isolante do que qualquer couro intacto.</Leather_Patch.description>
   
   <!-- EN: pigskin -->
   <Leather_Pig.label>pele de porco</Leather_Pig.label>
@@ -88,17 +88,17 @@
   
   <!-- EN: rhinoceros leather -->
   <Leather_Rhinoceros.label>couro de rinoceronte</Leather_Rhinoceros.label>
-  <!-- EN: Tanned, dried, scraped rhinocerous skin. It is exceptionally durable in combat, but provides little protection from weather. -->
-  <Leather_Rhinoceros.description>Pele curtida, seca e raspada. É excepcionalmente durável em combate, mas oferece pouca proteção contra o clima.</Leather_Rhinoceros.description>
+  <!-- EN: Tanned, dried, scraped rhinoceros skin. It is exceptionally durable in combat, but provides little protection from weather. -->
+  <Leather_Rhinoceros.description>Pele de rinoceronte curtida, seca e raspada. É excepcionalmente durável em combate, mas oferece pouca proteção contra o clima.</Leather_Rhinoceros.description>
   
   <!-- EN: thrumbofur -->
-  <Leather_Thrumbo.label>pele de thrumbo</Leather_Thrumbo.label>
+  <Leather_Thrumbo.label>pele de trumbo</Leather_Thrumbo.label>
   <!-- EN: Furry pelt of a thrumbo. Luxurious and extraordinarily durable. Used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_Thrumbo.description>Pele de um thrumbo. Luxuosa e extraordinariamente durável. Usada para os ofícios da mais alta qualidade por seu isolamento e resistência</Leather_Thrumbo.description>
+  <Leather_Thrumbo.description>Pele de um trumbo. Luxuosa e extraordinariamente durável. Usada para os ofícios da mais alta qualidade por seu isolamento e resistência</Leather_Thrumbo.description>
   
   <!-- EN: wolfskin -->
   <Leather_Wolf.label>pele de lobo</Leather_Wolf.label>
   <!-- EN: A soft furry pelt harvested from a wolf-like creature. It is difficult to pierce and insulates well against cold. -->
-  <Leather_Wolf.description>Um pêlo macio e peludo colhido de uma criatura semelhante a um lobo. É difícil perfurar e isola bem contra o frio.</Leather_Wolf.description>
+  <Leather_Wolf.description>Um pelo macio e peludo colhido de uma criatura semelhante a um lobo. É difícil perfurar e isola bem contra o frio.</Leather_Wolf.description>
   
 </LanguageData>

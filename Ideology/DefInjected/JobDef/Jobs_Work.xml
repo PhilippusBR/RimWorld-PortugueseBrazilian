@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: changing dryad caste of TargetA. -->
+  <ChangeTreeMode.reportString>mudando a casta dríade de TargetA.</ChangeTreeMode.reportString>
+  
+  <!-- EN: creating cocoon. -->
+  <CreateAndEnterCocoon.reportString>criando casulo.</CreateAndEnterCocoon.reportString>
+  
+  <!-- EN: creating healing pod. -->
+  <CreateAndEnterHealingPod.reportString>criando casulo de cura.</CreateAndEnterHealingPod.reportString>
+  
+  <!-- EN: merging into TargetB. -->
+  <MergeIntoGaumakerPod.reportString>fundindo em TargetB.</MergeIntoGaumakerPod.reportString>
+  
+  <!-- EN: converting TargetA. -->
+  <PrisonerConvert.reportString>convertendo TargetA.</PrisonerConvert.reportString>
+  
+  <!-- EN: enslaving TargetA. -->
+  <PrisonerEnslave.reportString>escravizando TargetA.</PrisonerEnslave.reportString>
+  
+  <!-- EN: reducing will of TargetA. -->
+  <PrisonerReduceWill.reportString>reduzindo a vontade de TargetA.</PrisonerReduceWill.reportString>
+  
+  <!-- EN: pruning TargetA. -->
+  <PruneGauranlenTree.reportString>podando TargetA.</PruneGauranlenTree.reportString>
+  
+  <!-- EN: returning to TargetA. -->
+  <ReturnToGauranlenTree.reportString>voltando para TargetA.</ReturnToGauranlenTree.reportString>
+  
+  <!-- EN: emancipating TargetA. -->
+  <SlaveEmancipation.reportString>emancipando TargetA.</SlaveEmancipation.reportString>
+  
+  <!-- EN: executing TargetA. -->
+  <SlaveExecution.reportString>executando TargetA.</SlaveExecution.reportString>
+  
+  <!-- EN: suppressing TargetA. -->
+  <SlaveSuppress.reportString>suprimindo TargetA.</SlaveSuppress.reportString>
+  
+</LanguageData>

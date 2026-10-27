@@ -4,6 +4,12 @@
   <!-- EN: minified thing -->
   <MinifiedThing.label>coisa inacabada</MinifiedThing.label>
   
+  <!-- EN: minified thing -->
+  <MinifiedThingRealtimeDraw.label>coisa inacabada</MinifiedThingRealtimeDraw.label>
+  
+  <!-- EN: minified tree -->
+  <MinifiedTree.label>árvore inacabada</MinifiedTree.label>
+  
   <!-- EN: unfinished apparel -->
   <UnfinishedApparel.label>roupa inacabada</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->
@@ -39,10 +45,20 @@
   <!-- EN: An unfinished prosthetic. -->
   <UnfinishedHealthItemProsthetic.description>Uma prótese inacabada.</UnfinishedHealthItemProsthetic.description>
   
+  <!-- EN: unfinished mask -->
+  <UnfinishedMask.label>máscara inacabada</UnfinishedMask.label>
+  <!-- EN: An unfinished mask. -->
+  <UnfinishedMask.description>Uma máscara inacabada.</UnfinishedMask.description>
+  
   <!-- EN: unfinished metal armor -->
   <UnfinishedMetallicTechArmor.label>armadura de metal inacabada</UnfinishedMetallicTechArmor.label>
   <!-- EN: An unfinished piece of metal armor. -->
   <UnfinishedMetallicTechArmor.description>Uma peça inacabada de armadura de metal.</UnfinishedMetallicTechArmor.description>
+  
+  <!-- EN: unfinished pack -->
+  <UnfinishedPack.label>pacote inacabado</UnfinishedPack.label>
+  <!-- EN: An unfinished piece of a pack. -->
+  <UnfinishedPack.description>Uma peça inacabada do pacote.</UnfinishedPack.description>
   
   <!-- EN: unfinished sculpture -->
   <UnfinishedSculpture.label>escultura inacabada</UnfinishedSculpture.label>

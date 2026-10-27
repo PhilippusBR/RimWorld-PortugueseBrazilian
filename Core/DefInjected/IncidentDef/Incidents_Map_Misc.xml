@@ -23,9 +23,9 @@
   <FarmAnimalsWanderIn.label>animais de fazenda se juntam</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>tempestade de raios</Flashstorm.label>
+  <Flashstorm.label>tempestade</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>Tempestade de raios</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>Tempestade</Flashstorm.letterLabel>
   
   <!-- EN: heat wave -->
   <HeatWave.label>onda de calor</HeatWave.label>
@@ -42,7 +42,7 @@
   <!-- EN: meteorite impact -->
   <MeteoriteImpact.label>impacto de meteorito</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>meteorito</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>Meteorito</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
   <MeteoriteImpact.letterText>Um grande meteorito caiu na área. E deixou pedaços de {0}.</MeteoriteImpact.letterText>
   
@@ -70,12 +70,12 @@
   <ShortCircuit.label>curto-circuito</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>passagem de thrumbos</ThrumboPasses.label>
+  <ThrumboPasses.label>passagem de trumbos</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>precipitação tóxica</ToxicFallout.label>
+  <ToxicFallout.label>chuva tóxica</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>Precipitação tóxica</ToxicFallout.letterLabel>
+  <ToxicFallout.letterLabel>chuva tóxica</ToxicFallout.letterLabel>
   
   <!-- EN: volcanic winter -->
   <VolcanicWinter.label>inverno vulcânico</VolcanicWinter.label>
@@ -84,16 +84,12 @@
   
   <!-- EN: wanderer join -->
   <WandererJoin.label>aldeão se junta</WandererJoin.label>
-  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
-  <WandererJoin.letterLabel>Aldeão se junta: {PAWN_nameDef}</WandererJoin.letterLabel>
-  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily. If you don't want {PAWN_nameDef}, you can banish {PAWN_objective}, sell {PAWN_objective} into slavery, or simply kill {PAWN_objective}. However, your other colonists may find this disturbing. -->
-  <WandererJoin.letterText>Um(a) {PAWN_title} chamado {PAWN_nameDef} chegou e está se juntando à colônia.\n\n[PAWN_pronoun] está disposto a contribuir, mas não sairá voluntariamente. Se você não quiser {PAWN_nameDef}, pode banir {PAWN_pronoun}, vender {PAWN_pronoun} como escravo, ou simplesmente matar {PAWN_pronoun}. No entanto, seus outros colonos podem achar isso perturbador.</WandererJoin.letterText>
   
   <!-- EN: wild man wanders in -->
   <WildManWandersIn.label>homem selvagem na área</WildManWandersIn.label>
-  <!-- EN: {PAWN_kind} wanders in -->
-  <WildManWandersIn.letterLabel>{PAWN_kind} vagueia</WildManWandersIn.letterLabel>
-  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
-  <WildManWandersIn.letterText>Uma pessoa que vive entre animais selvagens entrou na área. {PAWN_pronoun} é chamado(a) {0}.\n\nVocê pode tentar domar ou prender {PAWN_pronoun}.</WildManWandersIn.letterText>
+  <!-- EN: {0} wanders in -->
+  <WildManWandersIn.letterLabel>{0} selvagens em</WildManWandersIn.letterLabel>
+  <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Um(a) {1} que vive entre animais selvagens entrou na área. {PAWN_pronoun} chama-se {0}.\n\nVocê pode tentar domar {PAWN_objective}.</WildManWandersIn.letterText>
   
 </LanguageData>

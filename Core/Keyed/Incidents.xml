@@ -33,12 +33,19 @@
   <LetterLabelRefugeePodCrash>Cápsula de escape</LetterLabelRefugeePodCrash>
   <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
   <RefugeePodCrash>{PAWN_titleIndef} chamado(a) {PAWN_nameDef} está caindo em uma cápsula de transporte nas proximidades. Se {PAWN_pronoun} sobreviver ao impacto, {PAWN_pronoun} ficará gravemente ferido(a).</RefugeePodCrash>
+  <!-- EN: {PAWN_nameDef} is a child of {AGE}. -->
+  <RefugeePodCrash_Child>{PAWN_nameDef} é uma criança de {AGE}.</RefugeePodCrash_Child>
   <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
-  <RefugeePodCrash_Factionless>{PAWN_nameDef} não é afiliado(a) a nenhuma facção. Você pode resgatar {PAWN_pronoun} e esperar que {PAWN_pronoun} se una a você, ou capturar {PAWN_pronoun} para fins de recrutamento ou escravidão.</RefugeePodCrash_Factionless>
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} não é afiliado(a) a nenhuma facção. Você pode resgatá-lo(a) e esperar que {PAWN_pronoun} se una a você, ou capturá-lo para fins de recrutamento ou escravidão.</RefugeePodCrash_Factionless>
   <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
   <RefugeePodCrash_Hostile>{PAWN_nameDef} é da facção inimiga {PAWN_factionName}. Você pode capturar {PAWN_pronoun} para fins de recrutamento ou escravidão.</RefugeePodCrash_Hostile>
-  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
-  <RefugeePodCrash_NonHostile>{PAWN_nameDef} é de {PAWN_factionName}. Se você resgatar {PAWN_pronoun}, {PAWN_pronoun} poderá se unir a você. Caso contrário, {PAWN_pronoun} retornará para casa e melhorará a boa vontade entre suas facções.\n\nVocê também pode capturar {PAWN_pronoun} para fins de recrutamento ou escravidão, mas isso enfurecerá a facção {PAWN_objective}.</RefugeePodCrash_NonHostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If {PAWN_pronoun} returns home safely, {PAWN_pronoun} will spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} é de {PAWN_factionName}. Se {PAWN_pronoun} voltar para casa em segurança, melhorará a boa vontade entre suas facções.\n\nVocê também pode capturar {PAWN_pronoun} para fins de recrutamento ou escravidão, mas isso enfurecerá {PAWN_factionName}.</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>Viajante se junta: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>Um(a) {PAWN_title} chamado(a) {PAWN_nameDef} chegou e quer se juntar à colônia.\n\n[PAWN_pronoun] está disposto(a) a contribuir, mas não vai sair voluntariamente, alegando não ter nenhum outro lugar para ir. Você pode escolher o(a) derrubar e o(a) expulsar. No entanto, seus colonos ficarão incomodados em expulsar alguém em necessidade.</LetterWandererJoins>
 
   <!-- EN: Cargo pods -->
   <LetterLabelCargoPodCrash>Cápsulas de carga</LetterLabelCargoPodCrash>
@@ -59,7 +66,7 @@
   <ShortCircuitWasHuge>Esta foi realmente uma enorme explosão. Uau.</ShortCircuitWasHuge>
 
   <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
-  <TraderArrival>Uma nave de comércio está passando nas proximidades.\n\nEles são conhecidos como {0}. Eles são um {1}.\n\n{2}</TraderArrival>
+  <TraderArrival>Uma nave de comércio está passando nas proximidades.\n\nEles são conhecidos como {0}. Eles são {1}.\n\n{2}</TraderArrival>
   <!-- EN: They're affiliated with {FACTION_name}. -->
   <TraderArrivalFromFaction>Eles são afiliados a {FACTION_name}.</TraderArrivalFromFaction>
   <!-- EN: They are not affiliated with any faction. -->
@@ -109,8 +116,8 @@
   <PsychicDroneLevel>Nível de zumbido psíquico: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
   <LetterLabelPsychicDroneLevelIncreased>Intensificação do zumbido</LetterLabelPsychicDroneLevelIncreased>
-  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>A parte caída da nave agora está emanando um poderoso tipo de zumbido psíquico. Todos os seres humanos na área agora se sentem mais perturbados, aterrorizados e paranoicos.</LetterPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>A parte caída da nave agora está emanando um poderoso tipo de zumbido psíquico. Todos os {0} humanos na área agora se sentem mais perturbados, aterrorizados e paranoicos.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
@@ -138,19 +145,19 @@
   <!-- EN: {0} join -->
   <LetterLabelFarmAnimalsWanderIn>{0}s se juntaram</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>Um grupo de {0}s, abandonados ou perdidos, se desviou para a área.\n\nEles parecem acostumados ao contato humano e estão se unindo a colônia.</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Um grupo de {0}, abandonados(as) ou perdidos(as), entraram nesta área.\n\nEles(as) parecem acostumados(as) ao contato humano e estão se unindo a colônia.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>Thrumbos raros</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Trumbos raros</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>Um pequeno rebanho de thrumbos se desviou para a área.\n\nPacíficos por natureza, estas criaturas raras são extremamente perigosas quando confrontadas. Alguns comerciantes estão dispostos a pagar muito dinheiro por o seu couro e chifre precioso.\n\nOs Thrumbos irão deixar a área em poucos dias.</LetterThrumboPasses>
+  <LetterThrumboPasses>Um pequeno rebanho de trumbos se desviou para a área.\n\nPacíficas por natureza, estas criaturas raras são extremamente perigosas quando confrontadas. Alguns comerciantes estão dispostos a pagar muito dinheiro por o seu couro e chifre precioso.\n\nOs trumbos irão deixar a área em poucos dias.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
   <LetterLabelTraderCaravanArrival>{1} de {0}</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>Uma caravana de comércio de {0} está se aproximando. Eles são um {1}.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Uma caravana de comércio de {0} está se aproximando. Eles são {1}.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
   <LetterCaravanArrivalCommonWarning>Eles ficarão na colônia por algum tempo antes de partir. Você pode atacá-los - mas isso irritará a facção deles!</LetterCaravanArrivalCommonWarning>
     
@@ -168,13 +175,9 @@
   <!-- EN: Ship found -->
   <EscapeShipFoundLabel>Nave encontrada</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Você alcançou as coordenadas enviadas por (*Name)Charlon Whitestone(/Name) e descobriu a nave estelar oculta.\n\nO reator da nave ainda está no modo de hibernação, por isso não pode voar ainda. Você pode iniciá-lo interagindo com o núcleo do computador.\n\n(*Name)Charlon Whitestone(/Name) avisa que o processo de inicialização levará cerca de 15 dias, e a assinatura de energia será detectável a longa distância. Esse tipo de assinatura de energia indica capacidade de voo interestelar e atrairá bandos de invasores desesperados e enxames de mecanoides mortais.\n\nVocê será agredido com uma intensidade que nunca viu. Certifique-se de que suas defesas estejam preparadas primeiro.</EscapeShipFound>
+  <EscapeShipFound>Você alcançou as coordenadas enviadas por (*Name)Carlinhos Pedranca(/Name) e descobriu a nave estelar oculta.\n\nO reator da nave ainda está no modo de hibernação, por isso não pode voar ainda. Você pode iniciá-lo interagindo com o núcleo do computador.\n\n(*Name)Carlinhos Pedranca(/Name) avisa que o processo de inicialização levará cerca de 15 dias, e a assinatura de energia será detectável a longa distância. Esse tipo de assinatura de energia indica capacidade de voo interestelar e atrairá bandos de invasores desesperados e enxames de mecanoides mortais.\n\nVocê será agredido com uma intensidade que nunca viu. Certifique-se de que suas defesas estejam preparadas primeiro.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>Você alcançou as coordenadas enviadas por (*Name)Charlon Whitestone(/Name) e descobriu a nave estelar oculta.\n\nO reator da nave ainda está no modo de hibernação profunda, portanto ainda não pode voar. Você pode iniciá-lo interagindo com o núcleo do computador.\n\n(*Name)Charlon Whitestone(/Name) avisa que o processo de inicialização levará cerca de 15 dias.</EscapeShipFoundPeaceful>
-  <!-- EN: Ship destroyed -->
-  <EscapeShipLostLabel>Nave destruida</EscapeShipLostLabel>
-  <!-- EN: (*Name)Charlon Whitestone(/Name) sends you a message.\n\nHe sees that you've lost control of the landed ship. To stop it falling into the wrong hands, he's been forced to trigger the ship's self-destruct mechanism. The ship is now a crater.\n\nYou'll need to find another way off this planet. -->
-  <EscapeShipLost>(*Name)Charlon Whitestone(/Name) envia uma mensagem para você.\n\nEle vê que você perdeu o controle da nave. Para impedir que caia nas mãos erradas, ele foi forçado a acionar o mecanismo de autodestruição da nave. A nave agora virou uma cratera.\n\nVocê precisará encontrar outra saída deste planeta.</EscapeShipLost>
+  <EscapeShipFoundPeaceful>Você alcançou as coordenadas enviadas por (*Name)Carlinhos Pedranca(/Name) e descobriu a nave estelar oculta.\n\nO reator da nave ainda está no modo de hibernação profunda, portanto ainda não pode voar. Você pode iniciá-lo interagindo com o núcleo do computador.\n\n(*Name)Carlinhos Pedranca(/Name) avisa que o processo de inicialização levará cerca de 15 dias.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
@@ -196,7 +199,7 @@
   <!-- EN: Caravan request -->
   <LetterLabelCaravanRequest>Pedido de caravana</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>Um acordo próximo, {0}, contata você com um pedido comercial especial. Eles gostariam de comprar:\n\n  {1} (Custando {2})\n\nNo retorno, eles oferecem:\n\n  {3} (Custando {4})\n\nEsta solicitação expira depois: {5}\n\nSe quiser fazer o comércio, Envie uma caravana com os suprimentos solicitados. O tempo estimado de viagem é {6}. Você pode rever esta oferta selecionando {0} no mapa do mundo.</LetterCaravanRequest>
+  <LetterCaravanRequest>Um acordo próximo, {0}, contata você com um pedido comercial especial. Eles gostariam de comprar:\n\n  {1} (Custando {2})\n\nNo retorno, eles oferecem:\n\n  {3} (Custando {4})\n\nEsta solicitação expira depois: {5}\n\nSe quiser fazer o comércio, Envie uma caravana com os suprimentos solicitados. O tempo estimado de viagem é {6}. Você pode rever esta oferta selecionando {0} no mapa-múndi.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
   <CaravanRequestInfo>Requisitando: {0} ({2}) ({1} sobrando)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->

@@ -14,22 +14,61 @@
   <BeatFire.reportString>combatendo incêndio.</BeatFire.reportString>
   
   <!-- EN: Doing something. -->
+  <Carried.reportString>Fazendo algo.</Carried.reportString>
+  
+  <!-- EN: Doing something. -->
   <CastAbilityOnThing.reportString>Fazendo algo.</CastAbilityOnThing.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingMelee.reportString>Fazendo algo.</CastAbilityOnThingMelee.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnThingUninterruptible.reportString>Fazendo algo.</CastAbilityOnThingUninterruptible.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityOnWorldTile.reportString>Fazendo algo.</CastAbilityOnWorldTile.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastAbilityTouch.reportString>Fazendo algo.</CastAbilityTouch.reportString>
+  
+  <!-- EN: Doing something. -->
+  <CastJump.reportString>Fazendo algo.</CastJump.reportString>
   
   <!-- EN: clearing snow. -->
   <ClearSnow.reportString>limpando neve.</ClearSnow.reportString>
   
+  <!-- EN: delivering TargetA. -->
+  <DeliverToBed.reportString>entregando TargetA.</DeliverToBed.reportString>
+  
+  <!-- EN: delivering TargetA. -->
+  <DeliverToCell.reportString>entregando TargetA.</DeliverToCell.reportString>
+  
+  <!-- EN: dismissing trader. -->
+  <DismissTrader.reportString>dispensando comerciante.</DismissTrader.reportString>
+  
   <!-- EN: dropping TargetA. -->
   <DropEquipment.reportString>soltando TargetA no chão.</DropEquipment.reportString>
   
+  <!-- EN: Ejecting fuel from TargetA. -->
+  <EjectFuel.reportString>Ejetando combustível de TargetA.</EjectFuel.reportString>
+  
+  <!-- EN: emptying TargetA. -->
+  <EmptyThingContainer.reportString>esvaziando TargetA.</EmptyThingContainer.reportString>
+  
   <!-- EN: entering cryptosleep casket. -->
   <EnterCryptosleepCasket.reportString>entrando no sarcófago de criptosono.</EnterCryptosleepCasket.reportString>
+  
+  <!-- EN: entering TargetA. -->
+  <EnterPortal.reportString>entrando em TargetA.</EnterPortal.reportString>
   
   <!-- EN: entering TargetA. -->
   <EnterTransporter.reportString>entrando em TargetA.</EnterTransporter.reportString>
   
   <!-- EN: equipping TargetA. -->
   <Equip.reportString>equipando TargetA.</Equip.reportString>
+  
+  <!-- EN: extinguishing fires nearby. -->
+  <ExtinguishFiresNearby.reportString>extinguindo incêndios próximos.</ExtinguishFiresNearby.reportString>
   
   <!-- EN: extinguishing self. -->
   <ExtinguishSelf.reportString>se extinguindo.</ExtinguishSelf.reportString>
@@ -52,6 +91,12 @@
   <!-- EN: following TargetA. -->
   <FollowClose.reportString>seguindo TargetA.</FollowClose.reportString>
   
+  <!-- EN: following TargetA. -->
+  <FollowRoper.reportString>seguindo TargetA.</FollowRoper.reportString>
+  
+  <!-- EN: making TargetA wear TargetB. -->
+  <ForceTargetWear.reportString>fazendo TargetA usar TargetB.</ForceTargetWear.reportString>
+  
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>carregando TargetA no animal de carga.</GiveToPackAnimal.reportString>
   
@@ -71,7 +116,13 @@
   <HaulCorpseToPublicPlace.reportString>transportando TargetA.</HaulCorpseToPublicPlace.reportString>
   
   <!-- EN: hauling TargetA. -->
+  <HaulToPortal.reportString>transportando TargetA.</HaulToPortal.reportString>
+  
+  <!-- EN: hauling TargetA. -->
   <HaulToTransporter.reportString>transportando TargetA.</HaulToTransporter.reportString>
+  
+  <!-- EN: idling. -->
+  <IdleWhileDespawned.reportString>parado.</IdleWhileDespawned.reportString>
   
   <!-- EN: igniting TargetA. -->
   <Ignite.reportString>colocando fogo em TargetA.</Ignite.reportString>
@@ -82,11 +133,23 @@
   <!-- EN: consuming TargetA. -->
   <Ingest.reportString>consumindo TargetA.</Ingest.reportString>
   
+  <!-- EN: installing TargetB in TargetA. -->
+  <InstallImplant.reportString>instando TargetB em TargetA.</InstallImplant.reportString>
+  
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>insultando TargetA.</Insult.reportString>
   
+  <!-- EN: activating TargetA. -->
+  <InteractThing.reportString>ativando TargetA.</InteractThing.reportString>
+  
   <!-- EN: lying down. -->
   <LayDown.reportString>deitado.</LayDown.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownAwake.reportString>deitado.</LayDownAwake.reportString>
+  
+  <!-- EN: lying down. -->
+  <LayDownResting.reportString>deitado.</LayDownResting.reportString>
   
   <!-- EN: lovin'. -->
   <Lovin.reportString>amando.</Lovin.reportString>
@@ -100,6 +163,12 @@
   <!-- EN: opening TargetA. -->
   <Open.reportString>abrindo TargetA.</Open.reportString>
   
+  <!-- EN: picking up TargetA. -->
+  <PickupToHold.reportString>pegando TargetA.</PickupToHold.reportString>
+  
+  <!-- EN: reading TargetA -->
+  <Reading.reportString>lendo TargetA</Reading.reportString>
+  
   <!-- EN: rearming TargetA. -->
   <RearmTurret.reportString>rearmando TargetA.</RearmTurret.reportString>
   
@@ -112,6 +181,9 @@
   <!-- EN: refueling TargetA. -->
   <RefuelAtomic.reportString>reabastecendo TargetA.</RefuelAtomic.reportString>
   
+  <!-- EN: reloading TargetA. -->
+  <Reload.reportString>Carregando TargetA.</Reload.reportString>
+  
   <!-- EN: removing TargetA. -->
   <RemoveApparel.reportString>removendo TargetA.</RemoveApparel.reportString>
   
@@ -121,20 +193,29 @@
   <!-- EN: fighting with TargetA. -->
   <SocialFight.reportString>brigando com TargetA.</SocialFight.reportString>
   
+  <!-- EN: staring. -->
+  <StandAndStare.reportString>encarando.</StandAndStare.reportString>
+  
   <!-- EN: stripping TargetA. -->
   <Strip.reportString>desvestindo TargetA.</Strip.reportString>
   
   <!-- EN: taking beer out of TargetA. -->
   <TakeBeerOutOfFermentingBarrel.reportString>tirando cerveja de TargetA.</TakeBeerOutOfFermentingBarrel.reportString>
   
-  <!-- EN: taking TargetA. -->
+  <!-- EN: taking TargetA to inventory. -->
+  <TakeCountToInventory.reportString>pegando TargetA para o inventário</TakeCountToInventory.reportString>
+  
+  <!-- EN: grabbing TargetA from TargetB. -->
+  <TakeFromOtherInventory.reportString>pegando TargetA de TargetB.</TakeFromOtherInventory.reportString>
+  
+  <!-- EN: taking TargetA to inventory. -->
   <TakeInventory.reportString>pegando TargetA.</TakeInventory.reportString>
   
   <!-- EN: trading with TargetA. -->
   <TradeWithPawn.reportString>negociando com TargetA.</TradeWithPawn.reportString>
   
-  <!-- EN: triggering firefoam popper. -->
-  <TriggerFirefoamPopper.reportString>ativando dispositivo de espuma contra fogo.</TriggerFirefoamPopper.reportString>
+  <!-- EN: triggering TargetA. -->
+  <TriggerObject.reportString>acionando TargetA.</TriggerObject.reportString>
   
   <!-- EN: unloading TargetA. -->
   <UnloadInventory.reportString>descarregando TargetA.</UnloadInventory.reportString>
@@ -154,11 +235,23 @@
   <!-- EN: Doing something. -->
   <UseVerbOnThing.reportString>Fazendo algo.</UseVerbOnThing.reportString>
   
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStatic.reportString>Fazendo algo.</UseVerbOnThingStatic.reportString>
+  
+  <!-- EN: Doing something. -->
+  <UseVerbOnThingStaticReserve.reportString>Fazendo algo.</UseVerbOnThingStaticReserve.reportString>
+  
   <!-- EN: vomiting. -->
   <Vomit.reportString>vomitando.</Vomit.reportString>
   
   <!-- EN: standing. -->
   <Wait.reportString>parado.</Wait.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_Asleep.reportString>dormindo.</Wait_Asleep.reportString>
+  
+  <!-- EN: sleeping. -->
+  <Wait_AsleepDormancy.reportString>dormindo.</Wait_AsleepDormancy.reportString>
   
   <!-- EN: watching for targets. -->
   <Wait_Combat.reportString>observando os alvos.</Wait_Combat.reportString>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient band node -->
+  <AncientBandNode.label>nó de banda antigo</AncientBandNode.label>
+  <!-- EN: An ancient band node. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientBandNode.description>Um antigo nó de banda. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</AncientBandNode.description>
+  
+  <!-- EN: ancient toxifier generator -->
+  <AncientToxifierGenerator.label>gerador toxificante antigo</AncientToxifierGenerator.label>
+  <!-- EN: An ancient toxifier generator. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientToxifierGenerator.description>Um gerador toxificante antigo. Partes valiosas estão faltando, e todo o resto é degradado à inutilidade.</AncientToxifierGenerator.description>
+  
+</LanguageData>

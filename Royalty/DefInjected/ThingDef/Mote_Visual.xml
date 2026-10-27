@@ -2,42 +2,30 @@
 <LanguageData>
   
   <!-- EN: Mote -->
-  <Mote_CastPsycast.label>Mote</Mote_CastPsycast.label>
+  <Mote_Bestow.label>Partícula</Mote_Bestow.label>
   
   <!-- EN: Mote -->
-  <Mote_EntropyPulse.label>Mote</Mote_EntropyPulse.label>
+  <Mote_CastPsycast.label>Partícula</Mote_CastPsycast.label>
   
   <!-- EN: Mote -->
-  <Mote_MechDropBeaconActivated.label>Mote</Mote_MechDropBeaconActivated.label>
+  <Mote_ProximityScannerActivated.label>Partícula</Mote_ProximityScannerActivated.label>
   
   <!-- EN: Mote -->
-  <Mote_Music.label>Mote</Mote_Music.label>
+  <Mote_ProximityScannerRadius.label>Partícula</Mote_ProximityScannerRadius.label>
   
   <!-- EN: Mote -->
-  <Mote_ProximityScannerActivated.label>Mote</Mote_ProximityScannerActivated.label>
+  <Mote_PsychicLinkLine.label>Partícula</Mote_PsychicLinkLine.label>
   
   <!-- EN: Mote -->
-  <Mote_ProximityScannerRadius.label>Mote</Mote_ProximityScannerRadius.label>
+  <Mote_PsychicLinkPulse.label>Partícula</Mote_PsychicLinkPulse.label>
   
   <!-- EN: Mote -->
-  <Mote_PsycastSkipEffect.label>Mote</Mote_PsycastSkipEffect.label>
+  <Mote_PsyfocusPulse.label>Partícula</Mote_PsyfocusPulse.label>
   
   <!-- EN: Mote -->
-  <Mote_PsycastSkipEffectSource.label>Mote</Mote_PsycastSkipEffectSource.label>
+  <Mote_WarmupNeuroquake.label>Partícula</Mote_WarmupNeuroquake.label>
   
   <!-- EN: Mote -->
-  <Mote_PsycastSkipLine.label>Mote</Mote_PsycastSkipLine.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsychicLinkLine.label>Mote</Mote_PsychicLinkLine.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsychicLinkPulse.label>Mote</Mote_PsychicLinkPulse.label>
-  
-  <!-- EN: Mote -->
-  <Mote_PsyfocusPulse.label>Mote</Mote_PsyfocusPulse.label>
-  
-  <!-- EN: Mote -->
-  <Mote_WaterskipSplashParticles.label>Mote</Mote_WaterskipSplashParticles.label>
+  <Mote_WarmupWordOf.label>Partícula</Mote_WarmupWordOf.label>
   
 </LanguageData>

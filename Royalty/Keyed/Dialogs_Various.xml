@@ -9,37 +9,25 @@
   <!-- EN: Minimum apparel quality -->
   <RoyalTitleTooltipRequiredApparelQuality>Qualidade mínima de roupas</RoyalTitleTooltipRequiredApparelQuality>
   <!-- EN: Bedroom requirements -->
-  <RoyalTitleTooltipBedroomRequirements>Requisitos de quarto</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipBedroomRequirements>Requisitos do quarto</RoyalTitleTooltipBedroomRequirements>
   <!-- EN: Throneroom requirements -->
   <RoyalTitleTooltipThroneroomRequirements>Requisitos de sala do trono</RoyalTitleTooltipThroneroomRequirements>
   <!-- EN: Title privileges -->
   <RoyalTitleTooltipPermits>Privilégios de título</RoyalTitleTooltipPermits>
-  <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>area da sala: {0} ladrilhos</RoomRequirementArea>
-  <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>impressionabilidade da sala</RoomRequirementImpressiveness>
-  <!-- EN: all floored -->
-  <RoomRequirementAllFloored>todo pavimentado</RoomRequirementAllFloored>
-  <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>todos os braseiros devem estar acesos</RoomRequirementAllBraziersMustBeLit>
-  <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>todo finamente pavimentado</RoomRequirementAllFineFloored>
-  <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>sem instalações de trabalho permitidas</RoomRequirementNoProductionFacilities>
-  <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>sem camas permitidas</RoomRequirementNoBeds>
   <!-- EN: Holders of this title must be covered in some combination of -->
   <RoyalTitleRequiredApparelStatDescription>Detentores deste título devem estar vestidos com alguma combinação de</RoyalTitleRequiredApparelStatDescription>
   <!-- EN: Any prestige armor -->
   <ApparelRequirementAnyPrestigeArmor>Qualquer armadura de prestígio</ApparelRequirementAnyPrestigeArmor>
   <!-- EN: Any psycaster apparel -->
-  <ApparelRequirementAnyPsycasterApparel>Qualquer roupa de psycaster</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementAnyPsycasterApparel>Qualquer roupa de psinjurador</ApparelRequirementAnyPsycasterApparel>
+  <!-- EN: or any psycaster or prestige apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>ou qualquer psinjurador ou vestimenta de prestígio</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
   <!-- EN: Disallowed work types -->
   <DisabledWorkTypes>Tipos de trabalho não permitidos</DisabledWorkTypes>
   <!-- EN: Allowed foods -->
   <RoyalTitleRequiredMeals>Alimentos permitidos</RoyalTitleRequiredMeals>
   <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
-  <RoyalTitleRequiredMealsDesc>O detentor deste título só comerá esses alimentos, a menos que estejam passando fome ou em uma caravana.</RoyalTitleRequiredMealsDesc>
+  <RoyalTitleRequiredMealsDesc>O detentor deste título só comerá esses alimentos, a menos que esteja passando fome ou esteja em uma caravana.</RoyalTitleRequiredMealsDesc>
 
   <!-- Royal implants -->
   <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
@@ -52,6 +40,8 @@
   <!-- Royal weapons -->
   <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
   <BladelinkEquipWarning>Uma vez vinculada a um portador, a persona da arma se recusará a ser manejada por qualquer outra pessoa.</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>A arma tem os seguintes traços.</BladelinkEquipWarningTraits>
   <!-- EN: Are you sure you want to equip this item? -->
   <RoyalWeaponEquipConfirmation>Tem certeza de que deseja equipar este item?</RoyalWeaponEquipConfirmation>
   
@@ -61,6 +51,14 @@
   <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
   <PsycastIsIllegal>Isso é ilegal para {PAWN_labelShort}. Requer título de {TITLE}.</PsycastIsIllegal>
 
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>Não é possível teletransportar {PAWN_labelShort}</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>Muito grande</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>Resistência psíquica</CannotSkipTargetPsychicResistant>
+
   <!-- Warning -->
   <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
   <QuestGivesRoyalFavor>Essa missão recompensará {FACTION_royalFavorLabel} e, portanto, títulos reais para {PAWN_labelShort}.</QuestGivesRoyalFavor>
@@ -69,8 +67,12 @@
   <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
   <RoyalWithConceitedTrait>Já que {PAWN_labelShort} é {2}, {PAWN_pronoun} exigirá que os privilégios do título sejam totalmente respeitados. {PAWN_labelShort} pode se recusar a fazer certos tipos de trabalho ou comer alimentos de classe baixa e emitirá decretos. Outro colono provavelmente seria mais flexível.</RoyalWithConceitedTrait>
   <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
-  <RoyalWithTraitAffectingPsylinkNegatively>Como {PAWN_labelShort} é {2}, o psylink pode não ser útil para {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
-  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain the psycast anyways? -->
-  <PsylinkTooLowForGainAbility>O psylink de {PAWN_labelShort} não está em um nível alto o suficiente para usar {ABILITY}.\n\nAprender o psycast mesmo assim?</PsylinkTooLowForGainAbility>
+  <RoyalWithTraitAffectingPsylinkNegatively>Como {PAWN_labelShort} é {2}, o psínculo pode não ser útil para {PAWN_objective}.</RoyalWithTraitAffectingPsylinkNegatively>
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
+  <PsylinkTooLowForGainAbility>O psínculo de {PAWN_labelShort} não está em um nível alto o suficiente para usar {ABILITY}.\n\nGanhar esse poder mesmo assim?</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>O transporte está vazio. Se mandá-lo embora, você não poderá usá-lo de novo.\n\nMandá-lo mesmo assim?</SendShuttleWithNoContents>
+  <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
+  <DropResourcesOverweightConfirm>Esses recursos sobrecarregarão a caranava e ela ficará impossibilitada de mover.\n\nSolicitá-los mesmo assim?</DropResourcesOverweightConfirm>
 
 </LanguageData>

@@ -11,6 +11,11 @@
   <!-- EN: A simple T-shirt. -->
   <Apparel_BasicShirt.description>Uma camiseta simples.</Apparel_BasicShirt.description>
   
+  <!-- EN: cape -->
+  <Apparel_Cape.label>capa</Apparel_Cape.label>
+  <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
+  <Apparel_Cape.description>Uma longa capa com um elegante estilo. Ela fica pendurada sob uma parte do torço.</Apparel_Cape.description>
+  
   <!-- EN: button-down shirt -->
   <Apparel_CollarShirt.label>camisa de botão</Apparel_CollarShirt.label>
   <!-- EN: A nice-looking collared shirt with buttons. -->
@@ -39,7 +44,7 @@
   <!-- EN: jacket -->
   <Apparel_Jacket.label>jaqueta</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>Um casaco resistente para parar arranhões e ematomas, e manter o usuário quente num clima frio.</Apparel_Jacket.description>
+  <Apparel_Jacket.description>Um casaco resistente para parar arranhões e hematomas, e manter o usuário quente num clima frio.</Apparel_Jacket.description>
   
   <!-- EN: pants -->
   <Apparel_Pants.label>calças</Apparel_Pants.label>
@@ -58,8 +63,13 @@
   
   <!-- EN: marine armor -->
   <Apparel_PowerArmor.label>armadura de fuzileiro</Apparel_PowerArmor.label>
-  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial janissaries and rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>Um traje de armadura potente. Embutida com placas de plastiaço que são muito eficientes em parar ataques, com poucas seções articulares vulneráveis. Assistentes neurais permitem um humano vestir a armadura, e ainda se mover com facilidade.\n\nArmaduras como essa são frequentemente usadas por janízaros e fuzileiros espaciais.</Apparel_PowerArmor.description>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
+  <Apparel_PowerArmor.description>Um traje de armadura potente. Embutida com placas de plastiaço que são muito eficientes em parar ataques, com poucas seções articulares vulneráveis. Assistentes neurais permitem um humano vestir a armadura, e ainda se mover com facilidade.\n\nArmaduras como essa são frequentemente usadas por fuzileiros espaciais.</Apparel_PowerArmor.description>
+  
+  <!-- EN: robe -->
+  <Apparel_Robe.label>manto</Apparel_Robe.label>
+  <!-- EN: A long, flowing robe without a hood. -->
+  <Apparel_Robe.description>Um manto longo e esvoaçante sem capuz.</Apparel_Robe.description>
   
   <!-- EN: tribalwear -->
   <Apparel_TribalA.label>veste tribal</Apparel_TribalA.label>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beggar -->
+  <Beggar.label>mendigo</Beggar.label>
+  <Beggar.labelPlural>mendigos</Beggar.labelPlural>
+  
+  <!-- EN: pilgrim -->
+  <PovertyPilgrim.label>peregrino</PovertyPilgrim.label>
+  <PovertyPilgrim.labelPlural>peregrinos</PovertyPilgrim.labelPlural>
+  
+  <!-- EN: well-equipped traveler -->
+  <WellEquippedTraveler.label>viajante bem equipado</WellEquippedTraveler.label>
+  <WellEquippedTraveler.labelPlural>viajantes bem equipados</WellEquippedTraveler.labelPlural>
+  
+</LanguageData>

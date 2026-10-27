@@ -1,7 +1,4 @@
-﻿nação
-confederado
-confederação
-aliança
-parentesco
-povo
-tribo
+﻿Aliança
+Confederação
+Nação
+Tribo
