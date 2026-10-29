@@ -1,8 +1,10 @@
-# Guia de referência — universo de RimWorld
+# Referência para tradutores — termos inventados no universo de RimWorld
 
 > **Documento de consulta para tradutores (PT-BR).** Este é um guia original e resumido de conceitos e terminologia do universo de *RimWorld*, não uma tradução integral de um texto externo nem uma fonte de strings do jogo. As escolhas terminológicas abaixo são **provisórias** e devem ser confrontadas com os arquivos XML da tradução brasileira antes de sua adoção.
 >
-> **Leitura de referência:** [Cryptosleep Revival Briefing (em inglês)](https://docs.google.com/document/d/1fUO3KKbAbTxMP1lqphnnodY0NPoOVblCUkDw-54MDUc/pub).
+> **Fonte de referência:** *Cryptosleep Revival Briefing*, material em inglês compartilhado no Discord dos tradutores com a descrição **“Explicações sobre termos inventados no RimWorld”**. [Consultar o documento original](https://docs.google.com/document/d/1fUO3KKbAbTxMP1lqphnnodY0NPoOVblCUkDw-54MDUc/pub).
+>
+> **Nota editorial:** Este arquivo é um material de consulta original e resumido, **não é a tradução integral** do documento de referência. Os nomes próprios e termos inventados são preservados em inglês quando não há uma equivalência brasileira confirmada.
 
 ## Para que serve
 
